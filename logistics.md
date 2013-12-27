@@ -6,7 +6,7 @@ tagline:
 tags: [course]
 modified: 12-25-2013
 image:
-  feature: location.jpg
+  feature: logistics.jpg
   credit: Jill Homer
   creditlink: 
 ---
