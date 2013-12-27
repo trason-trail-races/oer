@@ -16,8 +16,8 @@ Something for one and all. Generous time limit so one can fully enjoy the beauty
 
 ## 100 kilometers
 
-| Course Map | [click here]({{ site.url }}/images/100k-map.png)
-| Course Profile | [click here]({{ site.url }}/images/100k-profile.png) 
+| Course Map | [click here]({{ site.url }}/images/100k-map.png) |
+| Course Profile | [click here]({{ site.url }}/images/100k-profile.png) |
 | Elevation Gain | 17,808 feet |
 | Elevation Loss | 19,743 feet |
 | Minimum Elevation | 541 feet |
