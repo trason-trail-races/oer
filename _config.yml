@@ -7,7 +7,7 @@ url: http://trason-trail-races.github.io/overlook-endurance-runs
 
 # Owner/author information
 owner:
-  name:           9/6/2014
+  name:           Overlook Endurance Runs
   avatar:         logo.png
   bio:            "Starting in Foreshill, CA with 100 kilometer, 50 mile, and 50 kilometer course options."
   email:          your@email.com
@@ -37,8 +37,9 @@ links:
     url: /courses
   - title: Location
     url: /location    
-  - title: Logistics
-    url: /logistics   # - title: About
+  - title: Race Info
+    url: /raceinfo   
+  # - title: About
   #   url: /about/
   # - title: Articles
   #   url: /articles/
