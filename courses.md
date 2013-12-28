@@ -6,7 +6,7 @@ tagline:
 tags: [course]
 modified: 12-25-2013
 image:
-  feature: location.jpg
+  feature: courses-map.png
   credit: Jill Homer
   creditlink: 
 ---
