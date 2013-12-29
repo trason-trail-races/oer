@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /stations/index.html
-title: "There are 9 aid stations, tuned for each distance, fully stacked with good people and supplies."
+title: "There are 11 aid stations, tuned for each distance, fully stacked with good people and supplies."
 tagline: 
 tags: [course]
 modified: 12-25-2013
