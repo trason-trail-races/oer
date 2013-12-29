@@ -16,7 +16,7 @@ Something for one and all. Generous time limit so one can fully enjoy the beauty
 
 ## 100 kilometers
 
-<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/102414416/embed/725e28c018793f1018d339f497384f735876029f'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/102414416/embed/725e28c018793f1018d339f497384f735876029f'></iframe>
 <br>
 The Runs start through the scenic Volcano and El Dorado Canyons. The route into El Dorado uses the service fire road into the canyon. Using the service road alleviates congestion and adds great views of the canyon not enjoyed during other running events. Turning around at the bottom of El Dorado Canyon, the course rejoins the Western States Trail returning to Foresthill. From Foresthill runners will follow the Western States and Tevis Cup trails, then traverse a small segment of the old Cool Canyon Crawl course on the way to the finish at the Auburn Overlook.
 
