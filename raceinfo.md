@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /logistics/index.html
+permalink: /raceinfo/index.html
 title: Race day logistics for the 100 kilometers, 50 miles, and 50 kilometers.
 tagline: 
 tags: [course]
 modified: 12-25-2013
 image:
-  feature: logistics.jpg
+  feature: location.jpg
   credit: Jill Homer
   creditlink: 
 ---
@@ -18,19 +18,6 @@ image:
 | 50m start time | 6:00a |
 | 50k start time | 8:00a |
 | Shuttle | 4:00a from American Canyon Park Overlook (<a href="http://goo.gl/ZEQW0v">map</a>) to start
-
-<hr>
-
-## Locations
-
-Drop bags, aid stations, crews, pacers, and cutoffs all happen at the following locations along the course:
-
-| **Location** | **Description** | **Accessibility** | **Map**
-| Foresthill Elementary School | Large parking lot | Car | map
-| Rucky Chucky | River crossing | Hike | map
-| Green Gate | Trail head | Hike | map
-| Highway 49 | Trail head | Hike | map
-| No Hands Bridge | Bridge right off highway | Car | map
 
 
 <hr>
