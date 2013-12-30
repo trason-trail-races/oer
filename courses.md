@@ -36,7 +36,7 @@ The 100k course leaves Foresthill headed to Michigan Bluff. Runners go through t
 
 <iframe width='100%' height='405' frameborder='0' src='http://trasontrailraces.cartodb.com/viz/bbb1b814-7034-11e3-b1ee-1796527001a2/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=false&sublayer_options=1%7C1&sql=&sw_lat=38.89737072309845&sw_lon=-121.04678392410278&ne_lat=39.0281772419617&ne_lon=-120.71719408035278'></iframe>
 
-<img class="profile-img" src="/images/100k-profile.png"/>
+<img class="profile-img" src="{{url}}/images/100k-profile.png"/>
 <span id="one-100k" class="circleBase legend" style="background:#33CC33;"></span>
 <span id="two-100k" class="circleBase legend" style="background:#FF9900;"></span>
 <span id="three-100k" class="circleBase legend" style="background:#FF9900;"></span>
@@ -69,7 +69,7 @@ Can you say hybrid? This course was designed to combine parts of the 100k and 50
 
 <iframe width='100%' height='405' frameborder='0' src='http://trasontrailraces.cartodb.com/viz/e900e958-70b0-11e3-a8ff-43cb6bb4e80d/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=false&sublayer_options=1%7C1&sql=&sw_lat=38.904985471301785&sw_lon=-121.06669664382935&ne_lat=39.03577794297157&ne_lon=-120.73710680007935'></iframe>
 
-<img class="profile-img" src="/images/50m-profile.png"/>
+<img class="profile-img" src="{{url}}/images/50m-profile.png"/>
 <span id="one-50m" class="circleBase legend" style="background:#33CC33;"></span>
 <span id="two-50m" class="circleBase legend" style="background:#FF9900;"></span>
 <span id="three-50m" class="circleBase legend" style="background:#FF9900;"></span>
@@ -95,7 +95,7 @@ Great first time ultra or personal record course. Follows the historic Tevis Cup
 
 <iframe width='100%' height='405' frameborder='0' src='http://trasontrailraces.cartodb.com/viz/c1da12c2-70b6-11e3-821d-b9f4542d7259/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=false&sublayer_options=1%7C1&sql=&sw_lat=38.884677661434736&sw_lon=-121.1024022102356&ne_lat=39.01550759051314&ne_lon=-120.7728123664856'></iframe>
 
-<img class="profile-img" src="/images/50k-profile.png"/>
+<img class="profile-img" src="{{url}}/images/50k-profile.png"/>
 <span id="one-50k" class="circleBase legend" style="background:#33CC33;"></span>
 <span id="two-50k" class="circleBase legend" style="background:#FF00FF;"></span>
 <span id="three-50k" class="circleBase legend" style="background:#FFCC00;"></span>
