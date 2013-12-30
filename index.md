@@ -4,7 +4,7 @@ description: "A responsive Jekyll theme with editorial tendencies by designer Mi
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: home.jpg
-  credit: Ann Trason
+  credit: Jill Homer
   creditlink:
 ---
 
