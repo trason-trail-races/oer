@@ -18,12 +18,6 @@
   {% if page.image.credit %}<span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>{% endif %}
 </div><!-- /.image-wrap -->{% endif %}
 
-{% if page.map.embed %}<div class="image-wrap">
-  <div itemprop="primaryImageOfPage">
-  {{ page.map.embed }}
-  </div>
-</div><!-- /.image-wrap -->{% endif %}
-
 <div id="main" role="main"  itemprop="mainContentOfPage">
   <div class="article-author-side">
     {% include _author-bio.html %}
@@ -33,6 +27,10 @@
     <div class="article-wrap" itemprop="text">
       {{ content }}
     </div><!-- /.article-wrap -->
+    <p>
+      <a href="#" class="btn btn-primary btn-lg active" role="button">Primary link</a>
+
+    </p>
   </article>
 </div><!-- /#index -->
 

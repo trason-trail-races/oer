@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /courseinfo/index.html
-title: "Choose 100 kilometers, 50 miles, or 50 kilometers"
+title: Something for one and all
 tagline: 
 tags: [course]
 modified: 12-25-2013
@@ -10,10 +10,24 @@ image:
   credit: Jill Homer
   creditlink: 
 ---
+<p class="lead">100 kilometer | 50 mile | 50 kilometer</p>
+<hr>
 
-Something for one and all. Generous time limit so one can fully enjoy the beauty of the Western States Trail. All events start in the historic town on Foresthill. Cell phone reception is poor along the course. Download our participant guide for offline viewing. Note that Rucky Chucky, Green Gate, and Highway 49 aid stations are not accessible by car and crews will need to hike in.
-<br><br>
+<p class="lead">Fully enjoy the beauty of the Western States Trail with generous time limits. All courses start in the historic town on Foresthill and ends in Auburn. </p>
+<div class="row">
+  <div class="col-md-4">
+  	<a href="/course/100k" class="btn btn-success btn-lg" role="button">100 km course</a>
+  </div>
+  <div class="col-md-4">
+  	<a href="#" class="btn btn-success btn-lg" role="button">50 mi course</a>
+  </div>
+  <div class="col-md-4">
+  	<a href="#" class="btn btn-success btn-lg" role="button">50 km course</a>
+  </div>
+</div>
 
+
+<!-- 
 # 100 kilometer - 62.3 mi | 17,808 ft
 <hr>
 
@@ -106,3 +120,4 @@ Great first time ultra or personal record course. Follows the historic Tevis Cup
 
 
 
+ -->
