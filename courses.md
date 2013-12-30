@@ -1,67 +1,108 @@
 ---
 layout: page
-permalink: /courses/index.html
+permalink: /courseinfo/index.html
 title: "Choose 100 kilometers, 50 miles, or 50 kilometers"
 tagline: 
 tags: [course]
 modified: 12-25-2013
 image:
   feature: courses.png
-  credit: Jill Homer
+  credit: Ann Trason
   creditlink: 
 ---
 
-Something for one and all. Generous time limit so one can fully enjoy the beauty of the Western States Trail. All events start in the historic town on Foresthill.
+Something for one and all. Generous time limit so one can fully enjoy the beauty of the Western States Trail. All events start in the historic town on Foresthill. Cell phone reception is poor along the course. Download our participant guide for offline viewing. Note that Rucky Chucky, Green Gate, and Highway 49 aid stations are not accessible by car and crews will need to hike in.
 <br><br>
 
-## 100 kilometers
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/102414416/embed/725e28c018793f1018d339f497384f735876029f'></iframe>
-<br>
-The Runs start through the scenic Volcano and El Dorado Canyons. The route into El Dorado uses the service fire road into the canyon. Using the service road alleviates congestion and adds great views of the canyon not enjoyed during other running events. Turning around at the bottom of El Dorado Canyon, the course rejoins the Western States Trail returning to Foresthill. From Foresthill runners will follow the Western States and Tevis Cup trails, then traverse a small segment of the old Cool Canyon Crawl course on the way to the finish at the Auburn Overlook.
-
-<!-- | Course Map | [click here]({{ site.url }}/images/100k-map.png) |
-| Course Profile | [click here]({{ site.url }}/images/100k-profile.png) |
-| Elevation Gain | 17,808 feet |
-| Elevation Loss | 19,743 feet |
-| Minimum Elevation | 541 feet |
-| Maximum Elevation | 3,722 feet |
- -->
-
-
-
+# 100 kilometer - 62.3 mi | 17,808 ft
 <hr>
 
-## 50 miles
+The 100k course leaves Foresthill headed to Michigan Bluff. Runners go through the scenic Volcano and El Dorado Canyons along fire roads for great views not enjoyed during other running events. Turning around at the bottom of El Dorado Canyon, the course rejoins the Western States Trail to Foresthill. Runners continue along the Western States and Tevis Cup trails, then traverse a small segment of the old Cool Canyon Crawl course on the way to the finish at the Auburn Dam Overlook. Participants pass through 13 aid stations. You'll hit Foresthill and Michigan Bluff twice each.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/102413320/embed/3d54150f35ffdd765e5adc83b7e27ed81a075c0c'></iframe>
-<br>
-Can you say hybrid? This course was designed to combine parts of the 100 km and 50 km routes.  Starts with the 100 km runners and leaves them at Poverty for a run along the American River, following the Tevis Cup Endurance Ride course to the Overlook. Shorter, less climbing but just as scenic as the 100 km course.  
+| **Station** | **Mile** | **Next** | **Crew** | **Pacer** | **Cutoff** | **Dropbag**
+| Foresthill <span class="circleBase legend" style="background:#33CC33;"></span> | 0 | 6.3 | ✓ |  | | 
+| Michigan Bluff <span class="circleBase legend" style="background:#FF9900;"></span> | 6.3 | 6.9 | ✓ |  | | 
+| Michigan Bluff <span class="circleBase legend" style="background:#FF9900;"></span> | 13.2 | 6.3 | ✓ |  | | 
+| Foresthill <span class="circleBase legend" style="background:#33CC33;"></span> | 19.5 | 8.7 | ✓ |  | | ✓ 
+| Peachstone <span class="circleBase legend" style="background:#FF00FF;"></span> | 28.2 | 7.3 |  |  | | 
+| Rucky Chucky <span class="circleBase legend" style="background:#FFCC00;"></span> | 35.5 | 3.2 | ✓  | ✓ | 3:30p | ✓ 
+| Poverty Bar <span class="circleBase legend" style="background:#0099FF;"></span> | 38.7 | 2.6 | |  |  |  
+| Green Gate <span class="circleBase legend" style="background:#9900FF;"></span> | 41.3 | 5.4 | ✓ | ✓ |  | ✓ 
+| Auburn Lake Trails <span class="circleBase legend" style="background:#996600;"></span> | 46.7 | 4.7 |  |  |  | 
+| Brown's Bar <span class="circleBase legend" style="background:#669999;"></span> | 51.4 | 3.6 |  |  |  | 
+| Highway 49 <span class="circleBase legend" style="background:#2ADACB;"></span> | 55 | 3.5 | ✓ | ✓ | 8:30p |  
+| No Hands Bridge <span class="circleBase legend" style="background:#87140E;"></span> | 58.3 | 4 | ✓ | ✓ | |  
+| Auburn Dam Overlook <span class="circleBase legend" style="background:#2e5387;"></span> | 62.3 | 0 | ✓ | ✓ | |  
 
-<!-- | Course Map | [click here]({{ site.url }}/images/50m-map.png)
-| Course Profile | [click here]({{ site.url }}/images/50m-profile.png) 
-| Elevation Gain | 13,481 feet |
-| Elevation Loss | 15,421 feet |
-| Minimum Elevation | 541 feet |
-| Maximum Elevation | 3,722 feet |
- -->
+<iframe width='100%' height='405' frameborder='0' src='http://trasontrailraces.cartodb.com/viz/bbb1b814-7034-11e3-b1ee-1796527001a2/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=false&sublayer_options=1%7C1&sql=&sw_lat=38.89737072309845&sw_lon=-121.04678392410278&ne_lat=39.0281772419617&ne_lon=-120.71719408035278'></iframe>
 
+<img class="profile-img" src="/images/100k-profile.png"/>
+<span id="one-100k" class="circleBase legend" style="background:#33CC33;"></span>
+<span id="two-100k" class="circleBase legend" style="background:#FF9900;"></span>
+<span id="three-100k" class="circleBase legend" style="background:#FF9900;"></span>
+<span id="four-100k" class="circleBase legend" style="background:#33CC33;"></span>
+<span id="five-100k" class="circleBase legend" style="background:#FF00FF;"></span>
+<span id="six-100k" class="circleBase legend" style="background:#FFCC00;"></span>
+<span id="seven-100k" class="circleBase legend" style="background:#0099FF;"></span>
+<span id="eight-100k" class="circleBase legend" style="background:#9900FF;"></span>
+<span id="nine-100k" class="circleBase legend" style="background:#996600;"></span>
+<span id="ten-100k" class="circleBase legend" style="background:#669999;"></span>
+<span id="eleven-100k" class="circleBase legend" style="background:#2ADACB;"></span>
+<span id="twelve-100k" class="circleBase legend" style="background:#87140E;"></span>
+<span id="thirteen-100k" class="circleBase legend" style="background:#2e5387;"></span>
 
+# 50 mile - 50.7 mi | 13,481 ft
 <hr>
 
-## 50 kilometers
+Can you say hybrid? This course was designed to combine parts of the 100k and 50k races. It starts with the 100k course but then changes course at Poverty Bar for a cruise along the American River on the Tevis Cup trail to the finish at Auburn Dam Overlook. It's just as scenic as the 100k option. Participants pass through 9 aid stations. You'll hit Foresthill and Michigan Bluff twice each.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/activities/102415028/embed/e6b25b5aba575d10458e188e9f32fb5934f55b52'></iframe>
-<br>
-Great first time and personal record course. Follows the historic Tevis Cup Ride Route. Great introduction to California Trail with the Race Directors favorite views of the American Canyon River. Sweep past the runner crossing on the Middle fork of American River and experience how the horses cross, tamer and shallower. Poverty Bar, (how did that get it’s name), follow American River to the historic No Hands Bridge and on wards to the finish.  
+| **Station** | **Mile** | **Next** | **Crew** | **Pacer** | **Cutoff** | **Drop**
+| Foresthill <span class="circleBase legend" style="background:#33CC33;"></span> | 0 | 6.3 | ✓ |  | | 
+| Michigan Bluff <span class="circleBase legend" style="background:#FF9900;"></span> | 6.3 | 6.9 | ✓ | ✓ | | 
+| Michigan Bluff <span class="circleBase legend" style="background:#FF9900;"></span> | 13.2 | 6.3 | ✓ | ✓ | | 
+| Foresthill <span class="circleBase legend" style="background:#33CC33;"></span> | 19.5 | 8.7 | ✓ | ✓ | | ✓ 
+| Peachstone <span class="circleBase legend" style="background:#FF00FF;"></span> | 28.2 | 7.3 |  |  | | 
+| Rucky Chucky <span class="circleBase legend" style="background:#FFCC00;"></span> | 35.5 | 3.2 | ✓  | ✓ | 3:30p | ✓ 
+| Poverty Bar <span class="circleBase legend" style="background:#0099FF;"></span> | 38.7 | 2.6 | |  |  |  
+| No Hands <span class="circleBase legend" style="background:#87140E;"></span> | 46.7 | 4 | ✓ | ✓ | |  
+| Overlook <span class="circleBase legend" style="background:#2e5387;"></span> | 50.7 | 0 | ✓ | ✓ | | 
 
-<!-- | Course Map | [click here]({{ site.url }}/images/50k-map.png)
-| Course Profile | [click here]({{ site.url }}/images/50k-profile.png) 
-| Elevation Gain | 7,526 feet |
-| Elevation Loss | 9,313 feet |
-| Minimum Elevation | 541 feet |
-| Maximum Elevation | 3,132 feet |
- -->
+<iframe width='100%' height='405' frameborder='0' src='http://trasontrailraces.cartodb.com/viz/e900e958-70b0-11e3-a8ff-43cb6bb4e80d/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=false&sublayer_options=1%7C1&sql=&sw_lat=38.904985471301785&sw_lon=-121.06669664382935&ne_lat=39.03577794297157&ne_lon=-120.73710680007935'></iframe>
+
+<img class="profile-img" src="/images/50m-profile.png"/>
+<span id="one-50m" class="circleBase legend" style="background:#33CC33;"></span>
+<span id="two-50m" class="circleBase legend" style="background:#FF9900;"></span>
+<span id="three-50m" class="circleBase legend" style="background:#FF9900;"></span>
+<span id="four-50m" class="circleBase legend" style="background:#33CC33;"></span>
+<span id="five-50m" class="circleBase legend" style="background:#FF00FF;"></span>
+<span id="six-50m" class="circleBase legend" style="background:#FFCC00;"></span>
+<span id="seven-50m" class="circleBase legend" style="background:#0099FF;"></span>
+<span id="eight-50m" class="circleBase legend" style="background:#87140E;"></span>
+<span id="nine-50m" class="circleBase legend" style="background:#2e5387;"></span>
+
+# 50 kilometer - 31.2 mi | 7,526 ft
+<hr>
+
+Great first time ultra or personal record course. Follows the historic Tevis Cup Trail. Great introduction to California trails with the Race Director's favorite views of the American Canyon River. Sweep past the Middle fork of the American River all the way to the historic No Hands Bridge and the finish. Participants on the 50k course pass through 6 aid stations.
+
+| **Station** | **Mile** | **Next** | **Crew** | **Pacer** | **Cutoff** | **Dropbag**
+| Foresthill <span class="circleBase legend" style="background:#33CC33;"></span> | 0 | 8.7 | ✓ |  | | 
+| Peachstone <span class="circleBase legend" style="background:#FF00FF;"></span> | 8.7 | 7.3 |  |  | | 
+| Rucky Chucky <span class="circleBase legend" style="background:#FFCC00;"></span> | 16 | 3.2 | ✓  | ✓ | 3:30p | ✓ 
+| Poverty Bar <span class="circleBase legend" style="background:#0099FF;"></span> | 19.2 | 2.6 | |  |  |  
+| No Hands Bridge <span class="circleBase legend" style="background:#87140E;"></span> | 27.2 | 4 | ✓ | ✓ | |  
+| Auburn Dam Overlook <span class="circleBase legend" style="background:#2e5387;"></span> | 31.2 | 0 | ✓ | ✓ | | 
+
+<iframe width='100%' height='405' frameborder='0' src='http://trasontrailraces.cartodb.com/viz/c1da12c2-70b6-11e3-821d-b9f4542d7259/embed_map?title=false&description=false&search=false&shareable=false&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=false&sublayer_options=1%7C1&sql=&sw_lat=38.884677661434736&sw_lon=-121.1024022102356&ne_lat=39.01550759051314&ne_lon=-120.7728123664856'></iframe>
+
+<img class="profile-img" src="/images/50k-profile.png"/>
+<span id="one-50k" class="circleBase legend" style="background:#33CC33;"></span>
+<span id="two-50k" class="circleBase legend" style="background:#FF00FF;"></span>
+<span id="three-50k" class="circleBase legend" style="background:#FFCC00;"></span>
+<span id="four-50k" class="circleBase legend" style="background:#0099FF;"></span>
+<span id="five-50k" class="circleBase legend" style="background:#87140E;"></span>
+<span id="six-50k" class="circleBase legend" style="background:#2e5387;"></span>
+
 
 
 

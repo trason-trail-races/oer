@@ -7,7 +7,7 @@ tags: [location]
 modified: 12-25-2013
 image:
   feature: courses.jpg
-  credit: Jill Homer
+  credit: Ann Trason
   creditlink: 
 ---
 
