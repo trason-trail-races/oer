@@ -16,7 +16,7 @@ image:
 <p class="lead">Fully enjoy the beauty of the Western States Trail with generous time limits. All courses start in the historic town on Foresthill and ends in Auburn. </p>
 <div class="row">
   <div class="col-md-4">
-  	<a href="/course/100k" class="btn btn-success btn-lg" role="button">100 km course</a>
+  	<a href="{{ site.url }}/course/100k" class="btn btn-success btn-lg" role="button">100 km course</a>
   </div>
   <div class="col-md-4">
   	<a href="#" class="btn btn-success btn-lg" role="button">50 mi course</a>
