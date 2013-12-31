@@ -1,8 +1,6 @@
-<!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
 <meta charset="utf-8">
 <title>Theme Setup &#8211; Overlook Endurance Runs</title>
@@ -10,7 +8,7 @@
 <meta name="keywords" content="Jekyll, theme, responsive">
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://localhost:4000/images/texture-feature-02.jpg">
+<meta name="twitter:image" content="http://trason-trail-races.github.io/overlook-endurance-runs/images/texture-feature-02.jpg">
 
 <meta name="twitter:title" content="Theme Setup">
 <meta name="twitter:description" content="Instructions on how to install and customize the Jekyll theme Minimal Mistakes.">
@@ -21,14 +19,20 @@
 <meta property="og:type" content="article">
 <meta property="og:title" content="Theme Setup">
 <meta property="og:description" content="Instructions on how to install and customize the Jekyll theme Minimal Mistakes.">
-<meta property="og:url" content="http://localhost:4000/theme-setup/index.html">
+<meta property="og:url" content="http://trason-trail-races.github.io/overlook-endurance-runs/theme-setup/index.html">
 <meta property="og:site_name" content="Overlook Endurance Runs">
 
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
 
 
 
 
-<link rel="canonical" href="http://localhost:4000/theme-setup/">
+
+<link rel="canonical" href="http://trason-trail-races.github.io/overlook-endurance-runs/theme-setup/">
 
 
 <!-- http://t.co/dKP3o1e -->
@@ -39,104 +43,81 @@
 <!-- Google Webfonts -->
 <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
 <!-- For all browsers -->
-<link rel="stylesheet" href="http://localhost:4000/assets/css/main.min.css">
+<link rel="stylesheet" href="http://trason-trail-races.github.io/overlook-endurance-runs/assets/css/main.min.css">
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
-<link rel="stylesheet" href="http://localhost:4000/assets/css/oer.css">
+<link rel="stylesheet" href="http://trason-trail-races.github.io/overlook-endurance-runs/assets/css/oer.css">
 
 <!--[if (lt IE 9) & (!IEMobile)]>
-<link rel="stylesheet" href="http://localhost:4000/assets/css/ie.min.css">
+<link rel="stylesheet" href="http://trason-trail-races.github.io/overlook-endurance-runs/assets/css/ie.min.css">
 <![endif]-->
 
 <meta http-equiv="cleartype" content="on">
 
 <!-- Load Modernizr -->
-<script src="http://localhost:4000/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+<script src="http://trason-trail-races.github.io/overlook-endurance-runs/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
 <!-- Icons -->
 <!-- 16x16 -->
-<link rel="shortcut icon" href="http://localhost:4000/favicon.ico">
+<link rel="shortcut icon" href="http://trason-trail-races.github.io/overlook-endurance-runs/favicon.ico">
 <!-- 32x32 -->
-<link rel="shortcut icon" href="http://localhost:4000/favicon.png">
+<link rel="shortcut icon" href="http://trason-trail-races.github.io/overlook-endurance-runs/favicon.png">
 <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
-<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://trason-trail-races.github.io/overlook-endurance-runs/images/apple-touch-icon-precomposed.png">
 <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://trason-trail-races.github.io/overlook-endurance-runs/images/apple-touch-icon-72x72-precomposed.png">
 <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://trason-trail-races.github.io/overlook-endurance-runs/images/apple-touch-icon-114x114-precomposed.png">
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://trason-trail-races.github.io/overlook-endurance-runs/images/apple-touch-icon-144x144-precomposed.png">
 
 
 </head>
 
-<body class="page" itemscope itemtype="http://schema.org/WebPage">
+<body>
 
 <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
 
 <nav class="navbar navbar-default navbar-static-top" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-8">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="http://localhost:4000">Overlook Endurance Runs</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-8">
-          <ul class="nav navbar-nav">
-			<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course Info <b class="caret"></b></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="http://localhost:4000/course/100k">100k</a></li>
-                <li><a href="#">50m</a></li>
-                <li><a href="#">50k</a></li>
-              </ul>
-            </li>
-            <li><a href="http://localhost:4000/raceinfo">Race Info</a></li>
-            <li><a href="http://localhost:4000/register">Register</a></li>
-            <li><a href="http://localhost:4000/location">Location</a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </nav>
-      <!-- <div class="navigation-wrapper">
-	<div class="site-name">
-		<a href="http://localhost:4000">Overlook Endurance Runs</a>
-	</div>
-	<div class="top-navigation">
-		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-		    <ul>
-		        
-				<li><a href="http://localhost:4000/" >Home</a></li>
-		        
-				<li><a href="http://localhost:4000/courseinfo" >Course Info</a></li>
-		        
-				<li><a href="http://localhost:4000/raceinfo" >Race Info</a></li>
-		        
-				<li><a href="http://localhost:4000/register" >Register</a></li>
-		        
-				<li><a href="http://localhost:4000/location" >Location</a></li>
-		        
-		    </ul>
-		</nav>
-	</div>
-</div> -->
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-8">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="http://trason-trail-races.github.io/overlook-endurance-runs">Overlook Endurance Runs</a>
+  </div>
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-8">
+    <ul class="nav navbar-nav">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course Info <b class="caret"></b></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="http://trason-trail-races.github.io/overlook-endurance-runs/course/100k">100k</a></li>
+          <li><a href="#">50m</a></li>
+          <li><a href="#">50k</a></li>
+        </ul>
+      </li>
+      <li><a href="http://trason-trail-races.github.io/overlook-endurance-runs/raceinfo">Race Info</a></li>
+      <li><a href="http://trason-trail-races.github.io/overlook-endurance-runs/register">Register</a></li>
+    </ul>
+  </div>
+</nav>
 
 <div class="image-wrap">
-  <img src="http://localhost:4000/images/texture-feature-02.jpg" alt="Theme Setup feature image" itemprop="primaryImageOfPage">
+  <img src="http://trason-trail-races.github.io/overlook-endurance-runs/images/texture-feature-02.jpg" alt="Theme Setup feature image" itemprop="primaryImageOfPage">
   <span class="image-credit">Photo Credit: <a href="http://texturelovers.com">Texture Lovers</a></span>
-</div><!-- /.image-wrap -->
+</div> 
+
+
 
 
 
 <div id="main" role="main"  itemprop="mainContentOfPage">
   <div class="article-author-side">
-    <img src="http://localhost:4000/images/logo.png" class="bio-photo" alt="Overlook Endurance Runs bio photo"></a>
-<!-- <h3>9/16/2014</h3> -->
-<p>Foresthill to Auburn along the Western States and Tevis Cup trails. Choose from 100k, 50m, and 50k course options.</p>
+    <img src="http://trason-trail-races.github.io/overlook-endurance-runs/images/overlook_circle.png" class="img-responsive" alt="Overlook Endurance Runs bio photo"></a>
+<hr>
+<a href="http://trason-trail-races.github.io/overlook-endurance-runs/register"  class="btn btn-success btn-lg btn-block">Register Now!</a>
+<hr>
 <a href="http://twitter.com/overlook-endurance-runs" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>
 <a href="http://facebook.com/overlook-endurance-runs" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>
 
@@ -145,6 +126,7 @@
 
 
 
+</p>
   </div>
   <article itemscope itemtype="http://schema.org/CreativeWork">
     <h1 itemprop="name">Theme Setup</h1>
@@ -332,7 +314,7 @@
 
 <h2 id="license">License</h2>
 
-<p>This theme is free and open source software, distributed under the <a href="http://localhost:4000/LICENSE">GNU General Public License</a> version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. </p>
+<p>This theme is free and open source software, distributed under the <a href="http://trason-trail-races.github.io/overlook-endurance-runs/LICENSE">GNU General Public License</a> version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer. </p>
 
 <div class="footnotes">
   <ol>
@@ -347,18 +329,23 @@
 
     </div><!-- /.article-wrap -->
   </article>
+  <div class="article-author-side">
+    <img src="http://trason-trail-races.github.io/overlook-endurance-runs/images/sponsors.png" class="img-responsive"></a>
+<hr>
+<iframe height='500px' width='100%' frameborder='0' allowtransparency='true' scrolling='yes' src='http://www.strava.com/clubs/45777/latest-rides/1c0961136cabf43943d0264e081a6d2c3b170a73?show_rides=true'></iframe>
+  </div>  
 </div><!-- /#index -->
 
 <div class="footer-wrap">
   <footer>
-    <span>&copy; 2013 Overlook Endurance Runs.</span>
+    <footer>&copy; 2013 Trason Trail Runs</footer>
 
   </footer>
-</div><!-- /.footer-wrap -->
+</div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-<script src="http://localhost:4000/assets/js/scripts.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://trason-trail-races.github.io/overlook-endurance-runs/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://trason-trail-races.github.io/overlook-endurance-runs/assets/js/scripts.min.js"></script>
 <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
           
 

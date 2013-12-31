@@ -1,5 +1,28 @@
 /*body { padding-top: 49px; }*/
 
+.map-wrap{
+    position:relative;
+    margin-bottom:-20px;
+    z-index:-1;
+}
+.map-wrap:after{
+    position:absolute;bottom:-1px;left:8%;display:block;width:0;height:0;border:20px solid transparent;border-bottom-color:#fff;content:" "
+}
+.map-wrap img{
+    width:100%;height:auto;-ms-interpolation-mode:bicubic
+}
+.map-wrap .headline-wrap{
+    position:absolute;bottom:25px;margin-left:8.333333333333334%
+}
+.map-wrap .headline-wrap h1,.map-wrap .headline-wrap h2{
+    color:#fff;text-shadow:0 1px 2px rgba(0,0,0,0.25)
+}
+
+
+.page-header {
+    margin: -30px 0 20px;
+}
+
 .navbar-default {
     background-color: #ffffff;
     border-color: #ffffff;
@@ -88,8 +111,8 @@ p+p {
 }
 
 .legend {
-	float: left;
-	margin: 4px 5px 5px 0px;
+    float: left;
+    margin: 4px 5px 5px 0px;
     width: 12px;
     height: 12px;
     background: #ccc;
@@ -97,100 +120,100 @@ p+p {
 }
 
 .profile-img {
-	float: left;
-	margin: 5px 0px 50px 0px;
+    float: left;
+    margin: 5px 0px 50px 0px;
 }
 
 
 #one-100k {
-	margin: -75px 0px 0px 40px;
+    margin: -75px 0px 0px 40px;
 }
 
 #two-100k {
-	margin: -75px 0px 0px 90px;
+    margin: -75px 0px 0px 90px;
 }
 
 #three-100k {
-	margin: -75px 0px 0px 165px;
+    margin: -75px 0px 0px 165px;
 }
 
 #four-100k {
-	margin: -75px 0px 0px 220px;
+    margin: -75px 0px 0px 220px;
 }
 
 #five-100k {
-	margin: -75px 0px 0px 310px;
+    margin: -75px 0px 0px 310px;
 }
 
 #six-100k {
-	margin: -75px 0px 0px 380px;
+    margin: -75px 0px 0px 380px;
 }
 
 #seven-100k {
-	margin: -75px 0px 0px 420px;
+    margin: -75px 0px 0px 420px;
 }
 
 #eight-100k {
-	margin: -75px 0px 0px 435px;
+    margin: -75px 0px 0px 435px;
 }
 
 #nine-100k {
-	margin: -75px 0px 0px 480px;
+    margin: -75px 0px 0px 480px;
 }
 
 #ten-100k {
-	margin: -75px 0px 0px 530px;
+    margin: -75px 0px 0px 530px;
 }
 
 #eleven-100k {
-	margin: -75px 0px 0px 575px;
+    margin: -75px 0px 0px 575px;
 }
 
 #twelve-100k {
-	margin: -75px 0px 0px 595px;
+    margin: -75px 0px 0px 595px;
 }
 
 #thirteen-100k {
-	margin: -75px 0px 0px 620px;
+    margin: -75px 0px 0px 620px;
 }
 
 
 
 
 #one-50m {
-	margin: -75px 0px 0px 40px;
+    margin: -75px 0px 0px 40px;
 }
 
 #two-50m {
-	margin: -75px 0px 0px 105px;
+    margin: -75px 0px 0px 105px;
 }
 
 #three-50m {
-	margin: -75px 0px 0px 190px;
+    margin: -75px 0px 0px 190px;
 }
 
 #four-50m {
-	margin: -75px 0px 0px 275px;
+    margin: -75px 0px 0px 275px;
 }
 
 #five-50m {
-	margin: -75px 0px 0px 385px;
+    margin: -75px 0px 0px 385px;
 }
 
 #six-50m {
-	margin: -75px 0px 0px 470px;
+    margin: -75px 0px 0px 470px;
 }
 
 #seven-50m {
-	margin: -75px 0px 0px 515px;
+    margin: -75px 0px 0px 515px;
 }
 
 #eight-50m {
-	margin: -75px 0px 0px 595px;
+    margin: -75px 0px 0px 595px;
 }
 
 #nine-50m {
-	margin: -75px 0px 0px 620px;
+    margin: -75px 0px 0px 620px;
 }
 
 
@@ -198,27 +221,27 @@ p+p {
 
 
 #one-50k {
-	margin: -75px 0px 0px 40px;
+    margin: -75px 0px 0px 40px;
 }
 
 #two-50k {
-	margin: -75px 0px 0px 220px;
+    margin: -75px 0px 0px 220px;
 }
 
 #three-50k {
-	margin: -75px 0px 0px 360px;
+    margin: -75px 0px 0px 360px;
 }
 
 #four-50k {
-	margin: -75px 0px 0px 420px;
+    margin: -75px 0px 0px 420px;
 }
 
 #five-50k {
-	margin: -75px 0px 0px 580px;
+    margin: -75px 0px 0px 580px;
 }
 
 #six-50k {
-	margin: -75px 0px 0px 620px;
+    margin: -75px 0px 0px 620px;
 }
 
 

@@ -1,43 +1,25 @@
 <nav class="navbar navbar-default navbar-static-top" role="navigation">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-8">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="{{ site.url }}">Overlook Endurance Runs</a>
-        </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-8">
-          <ul class="nav navbar-nav">
-			<li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course Info <b class="caret"></b></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="{{ site.url }}/course/100k">100k</a></li>
-                <li><a href="#">50m</a></li>
-                <li><a href="#">50k</a></li>
-              </ul>
-            </li>
-            <li><a href="{{ site.url }}/raceinfo">Race Info</a></li>
-            <li><a href="{{ site.url }}/register">Register</a></li>
-            <li><a href="{{ site.url }}/location">Location</a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </nav>
-      <!-- <div class="navigation-wrapper">
-	<div class="site-name">
-		<a href="{{ site.url }}">{{ site.title }}</a>
-	</div>
-	<div class="top-navigation">
-		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
-		    <ul>
-		        {% for link in site.links %}
-				<li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.url }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
-		        {% endfor %}
-		    </ul>
-		</nav>
-	</div>
-</div> -->
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-8">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+    <a class="navbar-brand" href="{{ site.url }}">Overlook Endurance Runs</a>
+  </div>
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-8">
+    <ul class="nav navbar-nav">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Course Info <b class="caret"></b></a>
+        <ul class="dropdown-menu" role="menu">
+          <li><a href="{{ site.url }}/course/100k">100k</a></li>
+          <li><a href="#">50m</a></li>
+          <li><a href="#">50k</a></li>
+        </ul>
+      </li>
+      <li><a href="{{ site.url }}/raceinfo">Race Info</a></li>
+      <li><a href="{{ site.url }}/register">Register</a></li>
+    </ul>
+  </div>
+</nav>

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /register/index.html
-title: Register for the inaugural Overlook Endurance Runs starting in February 2014
+title: Registration
 tagline: 
 tags: [location]
 modified: 12-25-2013
@@ -11,4 +11,9 @@ image:
   creditlink: 
 ---
 
+<p class="lead">Sign up for the 100k, 50m, or 50k.</p>
+
+<hr>
+
 Check back in February!
+
