@@ -13,7 +13,7 @@ image:
 <p class="lead">100 kilometer | 50 mile | 50 kilometer</p>
 <hr>
 
-<p class="lead">Fully enjoy the beauty of the Western States Trail with generous time limits. All courses start in the historic town on Foresthill and ends in Auburn. </p>
+<p class="lead">Enjoy the beauty of the Western States Trail with generous time limits. All events start in the historic town of Foresthill and end in Auburn. </p>
 <div class="row">
   <div class="col-md-4">
   	<a href="{{ site.url }}/course/100k" class="btn btn-success btn-lg" role="button">100 km course</a>

@@ -1032,7 +1032,8 @@ body{
     margin-bottom:0
 }
 .article-author-side p,.article-author-bottom p{
-    font-size:80%;font-style:italic
+    /*font-size:80%;*/
+    /*font-style:italic*/
 }
 .article-author-side a,.article-author-bottom a,.article-author-side a:hover,.article-author-bottom a:hover{
     border-bottom:0 solid transparent
@@ -1041,7 +1042,7 @@ body{
     width:100px;height:100px;-webkit-border-radius:100px;-moz-border-radius:100px;border-radius:100px
 }
 .author-social{
-    display:block;margin-bottom:5px;font-size:14px;font-size:.875rem;color:#111
+    display:block;margin-bottom:5px;font-size:14px;color:#111
 }
 .author-social:visited{
     color:#111
