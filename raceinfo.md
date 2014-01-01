@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /raceinfo/index.html
+permalink: /race/index.html
 title: Race information
 tagline: 
 tags: [course]
@@ -11,61 +11,129 @@ image:
   creditlink: 
 ---
 
-<p class="lead">Here's everything you need to know for participating in the 2014 Overlook Endurance Runs.</p>
+<p class="lead">Everything you need to know for participating in the 2014 Overlook Endurance Runs.</p>
 
 <hr>
 
-All races begin in Foresthill and end in Auburn. Cell phone reception along the course is poor. Crews are encouraged and welcome to support runners. Some aid stations require hiking in a couple of miles. Pacers for 100k and 50m runners are welcome. They must check in and sign a pacer waiver form at Foresthill. Runners are allowed one pacer at a time. 
+### Course details
 
+There are three courses to choose from. Click the one below for details about aid stations, maps, and elevation.
 
-## 100k
-<p class="lead">62.3 mi | 12,800 ft</p>
-<strong>Date</strong> - September 6, 2014
-<br>
-<strong>Course</strong> - <a href="{{ site.url }}/course/100k">Click here for 100k</a> aid stations, maps, elevation, crew, pacers, and cutoffs
-<br>
-<strong>Start</strong> - 6a at <a target="_blank" href="http://goo.gl/epYPXb">Foresthill Elemenary School</a>
-<br>
-<strong>Shuttle</strong> - 4a from <a target="_blank" href="http://goo.gl/ZEQW0v">American Canyon Park Overlook</a>
-<br>
-<strong>Bibs</strong> - 5-5:45a at <a target="_blank" href="http://goo.gl/epYPXb">Foresthill Elemenary School</a>
-<br>
-<strong>Finish</strong> - <a target="_blank" href="http://goo.gl/ZEQW0v">American Canyon Park Overlook</a>
-<br>
-<strong>Awards</strong> - Shirt and hat for all finishers, surprise awards for top 3 girls and guys 
+<a href="{{ site.url }}/course/100k">100k</a>
+
+<a href="{{ site.url }}/course/50m">50m</a>
+
+<a href="{{ site.url }}/course/50k">50k</a>
 
 <hr>
 
-## 50m
-<p class="lead">50.1 mi | 9,300 ft</p>
-<strong>Date</strong> - September 6, 2014
-<br>
-<strong>Course</strong> - <a href="{{ site.url }}/course/50m">Click here for 50m</a> aid stations, maps, elevation, crew, pacers, and cutoffs
-<br>
-<strong>Start</strong> - 6a at <a target="_blank" href="http://goo.gl/epYPXb">Foresthill Elemenary School</a>
-<br>
-<strong>Shuttle</strong> - 4a from <a target="_blank" href="http://goo.gl/ZEQW0v">American Canyon Park Overlook</a>
-<br>
-<strong>Bibs</strong> - 5-5:45a at <a target="_blank" href="http://goo.gl/epYPXb">Foresthill Elemenary School</a>
-<br>
-<strong>Finish</strong> - <a target="_blank" href="http://goo.gl/ZEQW0v">American Canyon Park Overlook</a>
-<br>
-<strong>Awards</strong> - Shirt and hat for all finishers, surprise awards for top 3 girls and guys 
+### Start times
+
+The 100k and 50m races start at 6a. The 50k starts at 8a.
 
 <hr>
 
-## 50k
-<p class="lead">30.6 mi | 5,500 ft</p>
-<strong>Date</strong> - September 6, 2014
-<br>
-<strong>Course</strong> - <a href="{{ site.url }}/course/50k">Click here for 50k</a> aid stations, maps, elevation, crew, pacers, and cutoffs
-<br>
-<strong>Start</strong> - 8a at <a target="_blank" href="http://goo.gl/epYPXb">Foresthill Elemenary School</a>
-<br>
-<strong>Shuttle</strong> - 4a from <a target="_blank" href="http://goo.gl/ZEQW0v">American Canyon Park Overlook</a>
-<br>
-<strong>Bibs</strong> - 7-7:45a at <a target="_blank" href="http://goo.gl/epYPXb">Foresthill Elemenary School</a>
-<br>
-<strong>Finish</strong> - <a target="_blank" href="http://goo.gl/ZEQW0v">American Canyon Park Overlook</a>
-<br>
-<strong>Awards</strong> - Shirt and hat for all finishers, surprise awards for top 3 girls and guys 
+### Start locations
+
+All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a>.
+
+<hr>
+
+### Shuttle to Start
+
+Shuttle Buses from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> in Auburn to Foresthill will be available. 
+
+<hr>
+
+### Bib pickup
+
+Foresthill Elementary school 5-5:45a for the 100 k and 50m, 7-7:45a for the 50k.
+
+<hr>
+
+### Awards
+
+All finishers receive running shirts and hats. Top Dog awards for top 3 male and female get ???
+
+<hr>
+
+### Drop bags
+
+Please label drop bags with your name and bib number. Items will be transported from Start to finish.  Bags will be provided for folks taking the shuttle bus. 
+
+Drop locations are at the following aid stations:
+
+<ol>
+	<li>Foresthill Elementary School: Start for all races, and mile 19.5 mile for the 100k and 50m.</li>
+	<li>Rucky Chucky: Mile 35 for the 100k and 50m, mile 16 for the 50k</li>
+	<li>Green Gate: Mile 41.3 for the 100k</li>
+</ol>
+
+<hr>
+
+### Crews
+
+Crews are encouraged and welcome to support runners. Due to aid station locations most crew will require foot travel from 1 to 2 miles.   
+
+Crews are permitted at the following aid stations:
+
+<ol>
+	<li>Michigan Bluff</li>
+	<li>Foresthill</li>
+	<li>Rucky Chucky (foot only from Foresthill Rd)</li>
+	<li>Green Gate (foot only)</li>
+	<li>Highway 49 (foot only)</li>
+	<li>No Hands Bridge</li>
+</ol>
+
+<hr>
+
+### Pacers
+
+Pacers will be allowed for 100k and 50m only. You may have more than one pacer to accompany you to the finish but runners are allowed only one pacer at a time. Pacers must check in prior to pacing and sign a pacer waiver.  
+
+Pacers are allowed from the following aid stations:
+
+<ol>
+	<li>Rucky Chucky (mile 35)</li>
+	<li>Green Gate</li>
+	<li>Highway 49</li>
+	<li>No Hands Bridge</li>
+</ol>
+
+<hr>
+
+### Cutoff
+
+As much as we want all runners to finish we will be have two course cutoffs:
+
+<ol>
+	<li>3:30p Rucky Chucky: Mile 35 for the 100k and 50m, mile 16 for the 50k</li>
+	<li>8:30p Highway 49: Mile 55 for the 100k</li>
+</ol>
+
+<hr>
+
+### Refunds
+
+No Refunds will be allowed. If races fill we will accept transfers for a nominal fee. 
+
+<hr>
+
+### Changing distances
+
+Registered runners can switch distances through August 15th. A check must be sent to cover differences if moving up in distance. There will be no refund for moving down in distance. 
+
+<hr>
+
+### Day Light Hours
+
+Plan accordingly!
+
+Sunrise: 6:44
+
+Sunset: 7:30
+
+Civil Sunrise: 6:17
+
+Civil Sunset: 6:58

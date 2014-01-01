@@ -39,8 +39,8 @@ links:
     url: /raceinfo   
   - title: Register
     url: /register
-  - title: Location
-    url: /location    
+  - title: Contact
+    url: /contact    
 
   # - title: About
   #   url: /about/
