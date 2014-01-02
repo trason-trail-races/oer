@@ -15,7 +15,7 @@ image:
 
 <hr>
 
-Email the race directors Ann Trason and Steve Holman:
+Email race directors Ann Trason and Steve Holman:
 <br>
 <a href="mailto:trasontrailraces+outlook@gmail.com">trasontrailraces+outlook@gmail.com</a>
 
