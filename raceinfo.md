@@ -11,7 +11,7 @@ image:
   creditlink: 
 ---
 
-<p class="lead">Everything you need to know for participating in the 2014 Overlook Endurance Runs.</p>
+<p class="lead">Everything you need to know for participating in the Overlook Endurance Runs on September 6, 2014.</p>
 
 <hr>
 
