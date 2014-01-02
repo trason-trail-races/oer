@@ -10,8 +10,8 @@ image:
 
 # Overlook Endurance Runs
 <p class="lead">
-Welcome to Trason Trail Races inagural event on September 6, 2014! Choose from 100k, 50m, and 50k courses starting in Foresthill and ending in Auburn. Run the Western States Trail, Tevis Cup Trail, and the American River Canyons. We hope you can join us!
+Welcome to the Trason Trail Races inaugural event on September 6, 2014! Choose from 100k, 50m, and 50k courses from Foresthill to Auburn. We hope you can join us!
 </p>
 <hr>
 
-To get started, read about our <a href="{{ site.url }}/course/100k">100k</a>, <a href="{{ site.url }}/course/50m">50m</a>, and <a href="{{ site.url }}/course/50k">50k</a> courses.
+Enjoy the historic Western States Trail, Tevis Cup Trail, and American River Canyon. To get started, read about our <a href="{{ site.url }}/course/100k">100k</a>, <a href="{{ site.url }}/course/50m">50m</a>, and <a href="{{ site.url }}/course/50k">50k</a> courses.
