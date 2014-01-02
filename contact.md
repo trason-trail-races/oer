@@ -15,11 +15,16 @@ image:
 
 <hr>
 
-Email race directors Ann Trason and Steve Holman:
-<br>
-<a href="mailto:trasontrailraces+outlook@gmail.com">trasontrailraces+outlook@gmail.com</a>
+### Race Directors
 
-We're also social. :)
+<address>
+  <strong>Ann Trason</strong><br>
+  <a href="mailto:#">trasontrailraces+overlook@gmail.com</a>
+</address>
+
+<hr>
+
+### Social
 
 {% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>{% endif %}
 {% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>{% endif %}
