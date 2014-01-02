@@ -15,7 +15,7 @@ image:
 
 <hr>
 
-### Race Directors
+### Race Director
 
 <address>
   <strong>Ann Trason</strong><br>

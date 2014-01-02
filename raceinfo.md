@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /race/index.html
-title: Race information
+title: Race Information
 tagline: 
 tags: [course]
 modified: 12-25-2013
