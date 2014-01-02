@@ -29,7 +29,7 @@ There are three courses to choose from. Click the one below for details about ai
 
 ### Start times
 
-The 100k and 50m races start at 6a. The 50k starts at 8a.
+The 100k and 50m races start at 6 a.m. The 50k starts at 8 a.m.
 
 <hr>
 
@@ -47,13 +47,13 @@ Shuttle Buses from the <a href="http://goo.gl/k9Kqrq" target="_blank">American C
 
 ### Bib pickup
 
-Foresthill Elementary school 5-5:45a for the 100 k and 50m, 7-7:45a for the 50k.
+Foresthill Elementary school 5-5:45 a.m. for the 100k and 50m, 7-7:45 a.m. for the 50k.
 
 <hr>
 
 ### Awards
 
-All finishers receive running shirts and hats. Top Dog awards for top 3 male and female get ???
+All finishers receive a custom Overlook Endurance Runs technical shirt and trail hat. Top Dog awards for top 3 male and female get ???
 
 <hr>
 

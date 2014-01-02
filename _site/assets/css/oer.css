@@ -2,8 +2,11 @@
 
 .map-wrap{
     position:relative;
-    margin-bottom:-20px;
-    z-index:-1;
+    margin-bottom:-11px;
+    /*z-index:-1;*/
+}
+.logo {
+    z-index: 10;
 }
 .map-wrap:after{
     position:absolute;bottom:-1px;left:8%;display:block;width:0;height:0;border:20px solid transparent;border-bottom-color:#fff;content:" "

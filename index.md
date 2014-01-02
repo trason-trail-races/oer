@@ -10,7 +10,7 @@ image:
 
 # Overlook Endurance Runs
 <p class="lead">
-This inagural run is comprised of three foot races: 100 kilometers, 50 miles, and 50 kilometers. All three start in Foresthill and end at the American Overlook Canyon Park in Auburn. 
+Join race directors Ann Trason and Steve Holman for the inaugural Overlook Endurance Runs on September 6, 2014. Choose 100k, 50m, or 50k. Race from Foresthill to Auburn along the Western States Trail, Tevis Cup Trail, and through the American River Canyons.
 </p>
 <hr>
 
