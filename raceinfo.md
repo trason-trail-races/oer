@@ -35,13 +35,13 @@ The 100k and 50m races start at 6 a.m. The 50k starts at 8 a.m.
 
 ### Start locations
 
-All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a>.
+All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a>. From the 80 take Auburn/Foresthill exit, continue East on the Auburn Ravine Road for 17 miles. Start will be on right.
 
 <hr>
 
 ### Shuttle to Start
 
-Shuttle Buses from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> in Auburn to Foresthill will be available. 
+Shuttle Buses from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> in Auburn to Foresthill will be available. From the 80 take the Maple Street exit in Auburn, continue to follow Auburn Folsom Rd, turn left on Sacramento St, left on Pacific Ave, right to stay on Pacific Ave, Overlook on left.
 
 <hr>
 
@@ -100,6 +100,51 @@ Pacers are allowed from the following aid stations:
 	<li>Highway 49</li>
 	<li>No Hands Bridge</li>
 </ol>
+
+<hr>
+
+### Volunteers
+
+We love our volunteers. Please <a href="{{ site.url }}/contact">Contact the Race Director</a> if you would like to work at one of our eleven aid stations or fill one of the numerous other openings available.
+	
+<hr>
+
+### Results
+
+Results will be posted on the Overlook Endurance Runs website after the race.
+
+<hr>
+
+### Sponsors
+
+Coming soon!
+
+<hr>
+
+### Lodging
+
+Here are some lodging suggestions near the finish in Auburn.
+
+<address>
+  <strong>Holiday Inn</strong><br>
+  120 Grass Valley Hwy<br>
+  Auburn, CA 95603<br>
+  <abbr title="Phone">P:</abbr> (530) 887-8787
+</address>
+
+<address>
+  <strong>Best Western Golden Key</strong><br>
+  13450 Lincoln Way<br>
+  Auburn, CA 95603<br>
+  <abbr title="Phone">P:</abbr> (530) 885-8611
+</address>
+
+<address>
+  <strong>Motel 6</strong><br>
+  1819 Auburn Ravine Rd<br>
+  Auburn, CA 95603<br>
+  <abbr title="Phone">P:</abbr> (530) 888-7829 1819
+</address>
 
 <hr>
 
