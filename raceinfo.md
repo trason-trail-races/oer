@@ -51,11 +51,6 @@ Foresthill Elementary school 5-5:45 a.m. for the 100k and 50m, 7-7:45 a.m. for t
 
 <hr>
 
-### Awards
-
-All finishers receive a custom Overlook Endurance Runs technical shirt and trail hat. Top Dog awards for top 3 male and female get ???
-
-<hr>
 
 ### Drop Bags
 
@@ -103,11 +98,6 @@ Pacers are allowed from the following aid stations:
 
 <hr>
 
-### Volunteers
-
-We love our volunteers. Please <a href="{{ site.url }}/contact">Contact the Race Director</a> if you would like to work at one of our eleven aid stations or fill one of the numerous other openings available.
-	
-<hr>
 
 ### Results
 
@@ -121,33 +111,6 @@ Coming soon!
 
 <hr>
 
-### Lodging
-
-Here are some lodging suggestions near the finish in Auburn.
-
-<address>
-  <strong>Holiday Inn</strong><br>
-  120 Grass Valley Hwy<br>
-  Auburn, CA 95603<br>
-  <abbr title="Phone">P:</abbr> (530) 887-8787
-</address>
-
-<address>
-  <strong>Best Western Golden Key</strong><br>
-  13450 Lincoln Way<br>
-  Auburn, CA 95603<br>
-  <abbr title="Phone">P:</abbr> (530) 885-8611
-</address>
-
-<address>
-  <strong>Motel 6</strong><br>
-  1819 Auburn Ravine Rd<br>
-  Auburn, CA 95603<br>
-  <abbr title="Phone">P:</abbr> (530) 888-7829 1819
-</address>
-
-<hr>
-
 ### Cutoff
 
 As much as we want all runners to finish we will be have two course cutoffs:
@@ -158,6 +121,13 @@ As much as we want all runners to finish we will be have two course cutoffs:
 </ol>
 
 <hr>
+
+### Awards
+
+All finishers receive a custom Overlook Endurance Runs technical shirt and trail hat. Top Dog awards for top 3 male and female finishers.
+
+<hr>
+
 
 ### Refunds
 
