@@ -15,7 +15,7 @@ image:
 
 <hr>
 
-### Course details
+### Course Details
 
 There are three courses to choose from. Click the one below for details about aid stations, maps, and elevation.
 
@@ -27,13 +27,13 @@ There are three courses to choose from. Click the one below for details about ai
 
 <hr>
 
-### Start times
+### Start Times
 
 The 100k and 50m races start at 6 a.m. The 50k starts at 8 a.m.
 
 <hr>
 
-### Start locations
+### Start Locations
 
 All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a>. From the 80 take Auburn/Foresthill exit, continue East on the Auburn Ravine Road for 17 miles. Start will be on right.
 
@@ -45,7 +45,7 @@ Shuttle Buses from the <a href="http://goo.gl/k9Kqrq" target="_blank">American C
 
 <hr>
 
-### Bib pickup
+### Bib Pickup
 
 Foresthill Elementary school 5-5:45 a.m. for the 100k and 50m, 7-7:45 a.m. for the 50k.
 
@@ -57,7 +57,7 @@ All finishers receive a custom Overlook Endurance Runs technical shirt and trail
 
 <hr>
 
-### Drop bags
+### Drop Bags
 
 Please label drop bags with your name and bib number. Items will be transported from Start to finish.  Bags will be provided for folks taking the shuttle bus. 
 
@@ -165,15 +165,13 @@ No Refunds will be allowed. If races fill we will accept transfers for a nominal
 
 <hr>
 
-### Changing distances
+### Changing Distances
 
 Registered runners can switch distances through August 15th. A check must be sent to cover differences if moving up in distance. There will be no refund for moving down in distance. 
 
 <hr>
 
-### Day Light Hours
-
-Plan accordingly!
+### Daylight Hours
 
 Sunrise: 6:44
 

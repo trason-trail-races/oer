@@ -15,23 +15,25 @@ image:
 
 <hr>
 
-### Race Director
-
 <address>
-  <strong>Ann Trason</strong><br>
+  <strong>Race Director - Ann Trason</strong><br>
   <a href="mailto:#">trasontrailraces+overlook@gmail.com</a>
 </address>
 
-<hr>
 
-### Social
+<address>
+  <strong>Volunteer Coordinator - Jane Doe</strong><br>
+  <a href="mailto:#">trasontrailraces+volunteer@gmail.com</a>
+</address>
 
-{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>{% endif %}
-{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>{% endif %}
-{% if site.owner.google_plus %}<a href="{{ site.owner.google_plus }}" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>{% endif %}
-{% if site.owner.linkedin %}<a href="http://linkedin.com/in/{{ site.owner.linkedin }}" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>{% endif %}
-{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" class="author-social" target="_blank"><i class="icon-instagram"></i> Instagram</a>{% endif %}
-{% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>{% endif %}
-{% if site.owner.lastfm %}<a href="http://lastfm.com/{{ site.owner.lastfm }}" class="author-social" target="_blank"><i class="icon-lastfm"></i> Last.fm</a>{% endif %}
-{% if site.owner.tumblr %}<a href="http://{{ site.owner.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="icon-tumblr"></i> Tumblr</a>{% endif %}
+
+<address>
+  <strong>Race Website - Aaron Steele</strong><br>
+  <a href="mailto:#">eightysteele+overlook@gmail.com</a>
+</address>
+
+<strong>Social Media</strong><br>
+{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="" target="_blank"><i></i> Twitter</a>{% endif %}<br>
+{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="" target="_blank"><i></i> Facebook</a>{% endif %}<br>
+{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" class="" target="_blank"><i></i> Instagram</a>{% endif %}
 
