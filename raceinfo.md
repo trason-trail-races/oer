@@ -41,7 +41,7 @@ All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill
 
 ### Shuttle to Start
 
-Shuttle Buses from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> in Auburn to Foresthill will be available. From the 80 take the Maple Street exit in Auburn, continue to follow Auburn Folsom Rd, turn left on Sacramento St, left on Pacific Ave, right to stay on Pacific Ave, Overlook on left.
+Shuttle Buses from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> in Auburn to Foresthill will be available. Time to be determined. From the 80 take the Maple Street exit in Auburn, continue to follow Auburn Folsom Rd, turn left on Sacramento St, left on Pacific Ave, right to stay on Pacific Ave, Overlook on left.
 
 <hr>
 

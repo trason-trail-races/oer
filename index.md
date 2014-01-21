@@ -10,7 +10,7 @@ image:
 
 # Overlook Endurance Runs
 <p class="lead">
-Welcome to our inaugural event on September 6, 2014, presented by Trason Trail Races! Choose from 100k, 50m, and 50k courses from Foresthill to Auburn. We hope you can join us!
+Welcome to our inaugural event on September 6, 2014, presented by Trason Trail Runs! Choose from 100k, 50m, and 50k courses from Foresthill to Auburn. We hope you can join us!
 </p>
 <hr>
 

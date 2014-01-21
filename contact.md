@@ -17,15 +17,18 @@ image:
 
 <address>
   <strong>Race Director - Ann Trason</strong><br>
-  <a href="mailto:#">trasontrailraces+overlook@gmail.com</a>
+  <a href="mailto:#">ann.trasontrailruns@gmail.com</a>
 </address>
-
 
 <address>
-  <strong>Volunteer Coordinator - Jane Doe</strong><br>
-  <a href="mailto:#">trasontrailraces+volunteer@gmail.com</a>
+  <strong>Race Co-Director - Steve Hollman</strong><br>
+  <a href="mailto:#">steve.trasontrailruns@gmail.com</a>
 </address>
 
+<address>
+  <strong>Volunteer Coordinator - Dianne Meyers</strong><br>
+  <a href="mailto:#">dianne.trasontrailruns@gmail.com</a>
+</address>
 
 <address>
   <strong>Race Website - Aaron Steele</strong><br>

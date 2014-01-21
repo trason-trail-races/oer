@@ -15,5 +15,5 @@ image:
 
 <hr>
 
-Check back in February!
+We're finializing our approved permits with the National Forest Service and Auburn State Recreation Area. Check back in February to register!
 

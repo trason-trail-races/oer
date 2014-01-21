@@ -11,10 +11,15 @@ image:
   creditlink: 
 ---
 
-<p class="lead">Come out and work at one of our eleven aid stations or fill one of the numerous other openings available!</p>
+<p class="lead">Come out and work at one of our eleven aid stations or fill one of the numerous other openings available.</p>
 
 <hr>
 
-Please <a href="{{ site.url }}/contact">Contact our Volunteer Coordinator</a> if you're interested.
+Send us an email if you're interested in volunteering.
+
+<address>
+  <strong>Volunteer Coordinator - Dianne Meyers</strong><br>
+  <a href="mailto:#">dianne.trasontrailruns@gmail.com</a>
+</address>
 	
 
