@@ -31,7 +31,7 @@ image:
 </address>
 
 <address>
-  <strong>Race Website - Aaron Steele</strong><br>
+  <strong>Race Website - Aaron Steele </strong><br>
   <a href="mailto:#">eightysteele+overlook@gmail.com</a>
 </address>
 
