@@ -35,13 +35,13 @@ The 100k and 50m races start at 6 a.m. The 50k starts at 8 a.m.
 
 ### Start Locations
 
-All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a>. From the 80 take Auburn/Foresthill exit, continue East on the Auburn Ravine Road for 17 miles. Start will be on right.
+All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a>. From the I-80 take the Auburn/Foresthill exit, continue East on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Foresthill Elementary School will be on the right.
 
 <hr>
 
 ### Shuttle to Start
 
-Shuttle Buses will be available from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) in Auburn to the start at Foresthill Elementary School. Time to be determined. From the 80 take the Maple Street exit in Auburn, continue to follow Auburn Folsom Rd, turn left on Sacramento St, left on Pacific Ave, right to stay on Pacific Ave, Overlook Dam Overlook is on left.
+Shuttle Buses will be available from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) in Auburn to the start at Foresthill Elementary School. Time to be determined. From the I-80 take the Maple Street exit in Auburn, follow the Auburn Folsom Road, turn left on Sacramento Street, left on Pacific Avenue, right to stay on Pacific Avenue, the Auburn Dam Overlook is on the left.
 
 <hr>
 
@@ -56,11 +56,11 @@ Foresthill Elementary School 5-5:45 a.m. for the 100k and 50m, 7-7:45 a.m. for t
 
 Please label drop bags with your name and bib number. Items will be transported from Start to Finish.  Bags will be provided for folks taking the shuttle bus. 
 
-Drop locations are at the following aid stations:
+Drop locations are allowed at the following aid stations:
 
 <ol>
-	<li>Foresthill Elementary School: Start for all races, and mile 19.5 mile for the 100k and 50m.</li>
-	<li>Rucky Chucky: Mile 35 for the 100k and 50m, mile 16 for the 50k</li>
+	<li>Foresthill Elementary School: Start for all races; and mile 19.5 mile for the 100k and 50m.</li>
+	<li>Rucky Chucky: Mile 35 for the 100k and 50m; mile 16 for the 50k</li>
 	<li>Green Gate: Mile 41.3 for the 100k</li>
 </ol>
 
@@ -68,7 +68,7 @@ Drop locations are at the following aid stations:
 
 ### Crews
 
-Crews are encouraged and welcome to support runners. Due to aid station locations most crews will require foot travel from 1 to 2 miles.   
+Crews are encouraged and welcome to support runners. Due to aid station locations most crew access will require foot travel from 1 to 2 miles.
 
 Crews are permitted at the following aid stations:
 
@@ -85,9 +85,9 @@ Crews are permitted at the following aid stations:
 
 ### Pacers
 
-Pacers will be allowed for 100k and 50m only. You may have more than one pacer accompany you to the finish, but runners are allowed only one pacer at a time. Pacers must check in and sign a pacer waiver prior to pacing.
+Pacers will be allowed for 100k and 50m only. You may have more than one pacer accompany you, but only one pacer per runner is allowed at anytime. Pacers must check in and sign a pacer waiver prior to pacing.
 
-Pacers are allowed from the following aid stations:
+Pacers are allowed to meet their runner from the following aid stations:
 
 <ol>
 	<li>Rucky Chucky (mile 35)</li>
