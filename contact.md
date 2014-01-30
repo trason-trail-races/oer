@@ -21,7 +21,7 @@ image:
 </address>
 
 <address>
-  <strong>Race Co-Director - Steve Holman</strong><br>
+  <strong>Race Director - Steve Holman</strong><br>
   <a href="mailto:#">steve.trasontrailruns@gmail.com</a>
 </address>
 
