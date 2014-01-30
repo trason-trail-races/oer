@@ -33,15 +33,15 @@ The 100k and 50m races start at 6 a.m. The 50k starts at 8 a.m.
 
 <hr>
 
-### Start Locations
+### Start Location
 
-All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a>. From the I-80 take the Auburn/Foresthill exit, continue East on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Foresthill Elementary School will be on the right.
+All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a>. From I-80 take the Auburn/Foresthill exit, continue East on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Foresthill Elementary School will be on the right.
 
 <hr>
 
 ### Shuttle to Start
 
-Shuttle Buses will be available from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) in Auburn to the start at Foresthill Elementary School. Time to be determined. From the I-80 take the Maple Street exit in Auburn, follow the Auburn Folsom Road, turn left on Sacramento Street, left on Pacific Avenue, right to stay on Pacific Avenue, the Auburn Dam Overlook is on the left.
+Shuttle Buses will be available from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) in Auburn to the start at Foresthill Elementary School. Time to be determined. From I-80 take the Maple Street exit in Auburn, follow the Auburn Folsom Road, turn left on Sacramento Street, left on Pacific Avenue, right to stay on Pacific Avenue, the Auburn Dam Overlook is on the left.
 
 <hr>
 
@@ -54,7 +54,7 @@ Foresthill Elementary School 5-5:45 a.m. for the 100k and 50m, 7-7:45 a.m. for t
 
 ### Drop Bags
 
-Please label drop bags with your name and bib number. Items will be transported from Start to Finish.  Bags will be provided for folks taking the shuttle bus. 
+Please label drop bags with your name and bib number. Items will be transported from the Start to the Finish.  Bags will be provided for folks taking the shuttle bus. 
 
 Drop locations are allowed at the following aid stations:
 
@@ -124,7 +124,7 @@ As much as we want all runners to finish we will be have two course cutoffs:
 
 ### Awards
 
-All finishers receive a custom Overlook Endurance Runs technical shirt and trail hat. Top Dog awards for top 3 male and female finishers.
+All finishers will receive a custom Overlook Endurance Runs technical shirt and trail hat. Top Dog awards for top 3 male and female finishers for each race.
 
 <hr>
 
