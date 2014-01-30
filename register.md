@@ -15,5 +15,7 @@ image:
 
 <hr>
 
-We're finializing our approved permits with the National Forest Service and Auburn State Recreation Area. Check back in February to register!
+Registration opens on Monday February 10, 2014 at 12:00 a.m. on <a href="https://ultrasignup.com/register.aspx?did=26950">Ultra Signup</a>.
+
+
 
