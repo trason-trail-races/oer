@@ -11,7 +11,7 @@ image:
   creditlink: 
 ---
 
-<p class="lead">Everything you need to know for participating in the Overlook Endurance Runs on September 6, 2014.</p>
+<p class="lead">Everything you need to know to participate in the Overlook Endurance Runs on September 6, 2014.</p>
 
 <hr>
 
@@ -29,7 +29,7 @@ There are three courses to choose from. Click the one below for details about ai
 
 ### Start Times
 
-The 100k and 50m races start at 6 a.m. The 50k starts at 8 a.m.
+The 100k and 50m races start at 6 a.m. The 50k race starts at 8 a.m.
 
 <hr>
 
