@@ -41,20 +41,20 @@ All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill
 
 ### Shuttle to Start
 
-Shuttle Buses from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> in Auburn to Foresthill will be available. Time to be determined. From the 80 take the Maple Street exit in Auburn, continue to follow Auburn Folsom Rd, turn left on Sacramento St, left on Pacific Ave, right to stay on Pacific Ave, Overlook on left.
+Shuttle Buses will be available from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) in Auburn to the start at Foresthill Elementary School. Time to be determined. From the 80 take the Maple Street exit in Auburn, continue to follow Auburn Folsom Rd, turn left on Sacramento St, left on Pacific Ave, right to stay on Pacific Ave, Overlook Dam Overlook is on left.
 
 <hr>
 
 ### Bib Pickup
 
-Foresthill Elementary school 5-5:45 a.m. for the 100k and 50m, 7-7:45 a.m. for the 50k.
+Foresthill Elementary School 5-5:45 a.m. for the 100k and 50m, 7-7:45 a.m. for the 50k.
 
 <hr>
 
 
 ### Drop Bags
 
-Please label drop bags with your name and bib number. Items will be transported from Start to finish.  Bags will be provided for folks taking the shuttle bus. 
+Please label drop bags with your name and bib number. Items will be transported from Start to Finish.  Bags will be provided for folks taking the shuttle bus. 
 
 Drop locations are at the following aid stations:
 
@@ -68,7 +68,7 @@ Drop locations are at the following aid stations:
 
 ### Crews
 
-Crews are encouraged and welcome to support runners. Due to aid station locations most crew will require foot travel from 1 to 2 miles.   
+Crews are encouraged and welcome to support runners. Due to aid station locations most crews will require foot travel from 1 to 2 miles.   
 
 Crews are permitted at the following aid stations:
 
@@ -85,7 +85,7 @@ Crews are permitted at the following aid stations:
 
 ### Pacers
 
-Pacers will be allowed for 100k and 50m only. You may have more than one pacer to accompany you to the finish but runners are allowed only one pacer at a time. Pacers must check in prior to pacing and sign a pacer waiver.  
+Pacers will be allowed for 100k and 50m only. You may have more than one pacer accompany you to the finish, but runners are allowed only one pacer at a time. Pacers must check in and sign a pacer waiver prior to pacing.
 
 Pacers are allowed from the following aid stations:
 
@@ -143,10 +143,10 @@ Registered runners can switch distances through August 15th. A check must be sen
 
 ### Daylight Hours
 
+Civil Sunrise: 6:17
+
 Sunrise: 6:44
 
 Sunset: 7:30
-
-Civil Sunrise: 6:17
 
 Civil Sunset: 6:58
