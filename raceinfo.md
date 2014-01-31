@@ -47,7 +47,7 @@ All races finish at the <a href="http://goo.gl/k9Kqrq" target="_blank">American 
 
 Heading east on I-80 take the Auburn Folsom Road/Maple Street exit toward Auburn, turn left on High Street, turn right on Pleasant Avenue, then slight left on Pacific Avenue. The park will be on the left.
 
-Heading west on I-80 take the CA-193 E/CA-49 toward Placerville, turn left on Lincoln Way, turn right on Oakwood Drive, turn left on High Street, turn left on Pleasant Avenue, then slight left on Pacific Avenue. The park will be on the left.
+Heading west on I-80 take the CA-193 E/CA-49 exit toward Placerville, turn left on Lincoln Way, turn right on Oakwood Drive, turn left on High Street, turn left on Pleasant Avenue, then slight left on Pacific Avenue. The park will be on the left.
 
 <hr>
 
