@@ -17,7 +17,7 @@ image:
 
 ### Course Details
 
-There are three distances from which to choose. Select one below for details on aid stations, maps, and elevation.
+There are three distances from which to choose. Select one below for details on aid stations, maps, and course elevation and profile.
 
 <a href="{{ site.url }}/course/100k">100k</a>
 
