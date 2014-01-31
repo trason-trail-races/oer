@@ -155,10 +155,12 @@ Registered runners can switch distances through August 15th. A check must be sen
 
 ### Daylight Hours
 
-Civil Sunrise: 6:17
+Headlamps or handhelds lights are recommended for the times before Sunrise and after Sunset.
 
-Sunrise: 6:44
+Civil Twilight: 6:10 a.m.
 
-Sunset: 7:30
+Sunrise: 6:37 a.m.
 
-Civil Sunset: 6:58
+Sunset: 7:28 p.m.
+
+Civil Twilight: 7:56 p.m.
