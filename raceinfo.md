@@ -97,7 +97,7 @@ Crews are permitted at the following aid stations:
 
 ### Pacers
 
-Pacers will be allowed for 100k and 50m only. You may have more than one pacer accompany you, but only one pacer per runner is allowed at anytime. Pacers must check in and sign a pacer waiver prior to pacing.
+Pacers will be allowed for 100k and 50m only. You may have more than one pacer assist you, but only one pacer per runner is allowed at anytime. Pacers must check in and sign a pacer waiver prior to pacing.
 
 Pacers are allowed to meet their runner from the following aid stations:
 
@@ -125,7 +125,7 @@ Coming soon!
 
 ### Cutoff
 
-As much as we want all runners to finish we will be have two course cutoffs:
+As much as we want all runners to finish there will be two course cutoffs:
 
 <ol>
 	<li>3:30p Rucky Chucky: Mile 35 for the 100k and 50m, mile 16 for the 50k</li>
@@ -143,7 +143,7 @@ All finishers will receive a custom Overlook Endurance Runs technical shirt and 
 
 ### Refunds
 
-No Refunds will be allowed. If races fill we will accept transfers for a nominal fee. 
+No Refunds will be provided. If races fill we will accept a transfer to another runner for a nominal fee. 
 
 <hr>
 
@@ -155,7 +155,7 @@ Registered runners can switch distances through August 15th. A check must be sen
 
 ### Daylight Hours
 
-Headlamps or handhelds lights are recommended for the times before Sunrise and after Sunset.
+Headlamps or handheld lights are recommended for the times before Sunrise and after Sunset.
 
 Civil Twilight: 6:10 a.m.
 
