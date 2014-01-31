@@ -35,7 +35,9 @@ The 100k and 50m races start at 6 a.m. The 50k race starts at 8 a.m.
 
 ### Start Location
 
-All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a> 24750 Foresthill Road, Foresthill, CA. From I-80 take the Auburn/Foresthill exit, continue East on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Foresthill Elementary School will be on the right.
+All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a> 24750 Foresthill Road, Foresthill, CA.
+
+From I-80 take the Auburn/Foresthill exit, continue East on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Foresthill Elementary School will be on the right.
 
 <hr>
 
