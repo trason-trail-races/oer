@@ -17,7 +17,7 @@ image:
 
 ### Course Details
 
-There are three courses to choose from. Click the one below for details about aid stations, maps, and elevation.
+There are three courses from which to choose. Click the one below for details about aid stations, maps, and elevation.
 
 <a href="{{ site.url }}/course/100k">100k</a>
 
@@ -35,13 +35,13 @@ The 100k and 50m races start at 6 a.m. The 50k race starts at 8 a.m.
 
 ### Start Location
 
-All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a>. From I-80 take the Auburn/Foresthill exit, continue East on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Foresthill Elementary School will be on the right.
+All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a> 24750 Foresthill Road, Foresthill, CA. From I-80 take the Auburn/Foresthill exit, continue East on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Foresthill Elementary School will be on the right.
 
 <hr>
 
 ### Shuttle to Start
 
-Shuttle Buses will be available from the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) in Auburn to the start at Foresthill Elementary School. Time to be determined. From I-80 take the Maple Street exit in Auburn, follow the Auburn Folsom Road, turn left on Sacramento Street, left on Pacific Avenue, right to stay on Pacific Avenue, the Auburn Dam Overlook is on the left.
+Shuttle Buses will be available from the finish at <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) 855 Pacific Avenue in Auburn to the start at the Foresthill Elementary School. Departure time to be determined. From I-80 take the Maple Street exit in Auburn, follow the Auburn Folsom Road, turn left on Sacramento Street, left on Pacific Avenue, right to stay on Pacific Avenue, the Auburn Dam Overlook is on the left.
 
 <hr>
 
