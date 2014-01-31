@@ -39,9 +39,19 @@ All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill
 
 <hr>
 
+### Finish Location
+
+All races finish at the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) 855 Pacific Avenue, Auburn, CA.
+
+Heading east on I-80 take the Auburn Folsom Road/Maple Street exit toward Auburn, turn left on High Street, turn right on Pleasant Avenue, then slight left on Pacific Avenue. The park will be on the left.
+
+Heading west on I-80 take the CA-193 E/CA-49 toward Placerville, turn left on Lincoln Way, turn right on Oakwood Drive, turn left on High Street, turn left on Pleasant Avenue, then slight left on Pacific Avenue. The park will be on the left.
+
+<hr>
+
 ### Shuttle to Start
 
-Shuttle Buses will be available from the finish at <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) 855 Pacific Avenue in Auburn to the start at the Foresthill Elementary School. Departure time to be determined. From I-80 take the Maple Street exit in Auburn, follow the Auburn Folsom Road, turn left on Sacramento Street, left on Pacific Avenue, right to stay on Pacific Avenue, the Auburn Dam Overlook is on the left.
+Shuttle Buses will be available from the finish at the Auburn Dam Overlook in Auburn to the start at the Foresthill Elementary School in Foresthill. Departure time to be determined.
 
 <hr>
 
