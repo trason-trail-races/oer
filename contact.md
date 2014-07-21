@@ -17,22 +17,22 @@ image:
 
 <address>
   <strong>Race Director - Ann Trason</strong><br>
-  <a href="mailto:#">ann.trasontrailruns@gmail.com</a>
+  <a href="mailto:ann.trasontrailruns@gmail.com">ann.trasontrailruns@gmail.com</a>
 </address>
 
 <address>
   <strong>Race Director - Steve Holman</strong><br>
-  <a href="mailto:#">steve.trasontrailruns@gmail.com</a>
+  <a href="mailto:steve.trasontrailruns@gmail.com">steve.trasontrailruns@gmail.com</a>
 </address>
 
 <address>
   <strong>Volunteer Coordinator - Dianne Meyers</strong><br>
-  <a href="mailto:#">dianne.trasontrailruns@gmail.com</a>
+  <a href="mailto:dianne.trasontrailruns@gmail.com">dianne.trasontrailruns@gmail.com</a>
 </address>
 
 <address>
-  <strong>Race Website - Aaron Steele </strong><br>
-  <a href="mailto:#">eightysteele+overlook@gmail.com</a>
+  <strong>Race Website - The Fat Panther </strong><br>
+  <a href="mailto:tfp@thefatpanther.com">tfp@thefatpanther.com</a>
 </address>
 
 <strong>Social Media</strong><br>
