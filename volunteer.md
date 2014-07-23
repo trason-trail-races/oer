@@ -19,7 +19,7 @@ Send us an email if you're interested in volunteering.
 
 <address>
   <strong>Volunteer Coordinator - Dianne Meyers</strong><br>
-  <a href="mailto:#">dianne.trasontrailruns@gmail.com</a>
+  <a href="mailto:dianne.trasontrailruns@gmail.com">dianne.trasontrailruns@gmail.com</a>
 </address>
 	
 
