@@ -10,7 +10,9 @@ image:
   credit: The Fat Panther
   creditlink: 
 ---
-
+<style>
+.article-author-side { display:none;  }
+</style>
 <div id="main" role="main"  itemprop="mainContentOfPage">
 <a href="http://victorysportdesign.com" target="_blank"><img src="http://trason-trail-races.github.io/oer/images/victor.png" class="img-responsive"></a><br />Inspired by the experience of running the Western States 100 mile endurance race and designed by runner Victor Ballesteros, VICTORY BAGS are the evolution of a durable, compact and ultra-organized sports utility bag.
 <hr><br>
