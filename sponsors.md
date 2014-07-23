@@ -1,3 +1,16 @@
+---
+layout: page
+permalink: /sponsors/index.html
+title: "A huge thank you to our generous sponsors!"
+tagline: 
+tags: [sponsors]
+modified: 7-23-2014
+image:
+  feature: 
+  credit: The Fat Panther
+  creditlink: 
+---
+
 <div id="main" role="main"  itemprop="mainContentOfPage">
 <a href="http://victorysportdesign.com" target="_blank"><img src="http://trason-trail-races.github.io/oer/images/victor.png" class="img-responsive"></a><br />Inspired by the experience of running the Western States 100 mile endurance race and designed by runner Victor Ballesteros, VICTORY BAGS are the evolution of a durable, compact and ultra-organized sports utility bag.
 <br><br>
