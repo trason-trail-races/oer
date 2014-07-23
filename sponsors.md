@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /sponsors/index.html
 title: "A huge thank you to our generous sponsors!"
 tagline: 
