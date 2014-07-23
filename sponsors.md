@@ -28,11 +28,11 @@ Located in historic downtown Auburn, California, our success is marked by a retu
 <hr><br>
 <a href="http://www.auburnalehouse.com" target="_blank"><img src="http://trason-trail-races.github.io/oer/images/aurburn_ale_house_logo.png" class="img-responsive"></a><br />
 Brian and Lisa Ford knew they were creating something very special with their craft beer pub in historic Old Town Auburn, and they sought to develop a menu that was as unique as their landmark building. “We’ve had a lot of experience surprising people,” Brian said. “So we wanted to go far beyond the ‘pizza-pasta-beer’ formula you see in so many brew pubs.”
-<hr /><br />
+<br /><br />
 Auburn Ale House will be providing beer mugs & a free beer to all racers & volunteers at this year's Overlook Endurance Run series! Make sure you get yours!
 <hr><br>
 <a href="http://www.monstersofmassage.com" target="_blank"><img src="http://trason-trail-races.github.io/oer/images/mom.png" class="img-responsive"></a><br />
 Ve Loyce is trained in Sports and Deep Tissue Massage, and also uses Acupressure and Shiatsu. Ve Loyce has developed his own unique technique of massage, which he calls, "Attack-Orientated Target Massage." This is where the practitioner focuses on a concentrated target at the client's most problematic areas.
-<hr /><br />
+<br /><br />
 Marsha has been a certified Massage Therapist since 2004. Marsha received her certificate from Davis School of Massage at Harbin Hot Springs, California. Marsha also received special training in Watsu (Water Massage) and Healing Touch.
 </div>
