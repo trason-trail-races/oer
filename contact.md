@@ -36,7 +36,7 @@ image:
 </address>
 
 <strong>Social Media</strong><br>
-{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="" target="_blank"><i></i> Twitter</a>{% endif %}<br>
-{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="" target="_blank"><i></i> Facebook</a>{% endif %}<br>
-{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" class="" target="_blank"><i></i> Instagram</a>{% endif %}
+{% if site.owner.twitter %}<a href="http://twitter.com/OverlookEndurance" class="" target="_blank"><i></i> Twitter</a>{% endif %}<br>
+{% if site.owner.facebook %}<a href="http://facebook.com/pages/{{ site.owner.facebook }}" class="" target="_blank"><i></i> Facebook</a>{% endif %}<br>
+<span style="display:none;">{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" class="" target="_blank"><i></i> Instagram</a>{% endif %}</span>
 
