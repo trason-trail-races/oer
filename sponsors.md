@@ -37,7 +37,7 @@ Ve Loyce is trained in Sports and Deep Tissue Massage, and also uses Acupressure
 Marsha has been a certified Massage Therapist since 2004. Marsha received her certificate from Davis School of Massage at Harbin Hot Springs, California. Marsha also received special training in Watsu (Water Massage) and Healing Touch.
 <hr>
 <br />
-<a href="http://www.succeedscaps.com/" target="_blank"><img src="http://trason-trail-races.github.io/oer/images/succeedscaps_logo.jpg" class="img-responsive"></a><br />
+<a href="http://www.succeedscaps.com/" target="_blank"><img src="{{ site.url }}/images/SUCCEEDSCaps_logo.jpg" class="img-responsive"></a><br />
 THE GOLD STANDARD FOR ELECTROLYTE REPLACEMENT™
 <br /><br />
 Since 1995, S! Caps have been the best electrolyte supplement on the market.  They are effective and safe because the formulation matches the electrolyte content of human blood plasma: both + and – ions.  The winning formulation.
