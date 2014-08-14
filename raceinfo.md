@@ -37,7 +37,7 @@ The 100k and 50m races start at 6 a.m. The 50k race starts at 8 a.m.
 
 All races start at the <a target="_blank" href="http://tinyurl.com/StonesBrew">Stone's Brew</a> 24482 Main Street, Foresthill, CA.
 
-From I-80 take the Auburn/Foresthill exit, continue east on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Foresthill Elementary School will be on the right.
+From I-80 take the Auburn/Foresthill exit, continue east on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Stone's Brew will be on the right.
 
 <hr>
 
@@ -63,6 +63,7 @@ Shuttle Buses will be available from the finish at the Auburn Dam Overlook in Au
 ### Bib Pickup
 
 Auburn Running Company 833 Lincoln Way, Auburn, CA Friday  10:00am - 6:00pm
+
 Stone's Brew 24482 Main Street, Foresthill, CA 100k and 50m - 5-5:45am, 50k - 7-7:45am
 
 <hr>
@@ -159,7 +160,7 @@ Registered runners can switch distances through August 15th. A check must be sen
 
 ### Daylight Hours
 
-Headlamps or handheld lights are recommended for the times before Sunrise and after Sunset.
+Headlamps or handheld lights are highly recommended for the times before Sunrise and after Sunset.
 
 Civil Twilight: 6:10 a.m.
 
