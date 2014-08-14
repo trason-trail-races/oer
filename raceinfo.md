@@ -29,7 +29,7 @@ There are three distances from which to choose. Select one below for details on 
 
 ### Start Times
 
-The 100k and 50m races start at 6 a.m. The 50k race starts at 8 a.m.
+The 100k and 50m races start at 6:00am The 50k race starts at 8:00am
 
 <hr>
 
@@ -37,7 +37,7 @@ The 100k and 50m races start at 6 a.m. The 50k race starts at 8 a.m.
 
 All races start at the <a target="_blank" href="http://tinyurl.com/StonesBrew">Stone's Brew</a> 24482 Main Street, Foresthill, CA.
 
-From I-80 take the Auburn/Foresthill exit, continue east on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Stone's Brew will be on the right.
+From I-80 take the Auburn/Foresthill exit, continue east on the Auburn Ravine Road/Foresthill Road for 16.8 miles. Turn right onto Main Street(runs parallel to Foresthill Road), then proceed about 0.20 of a mile. The start at the Stone's Brew will be on the right.
 
 <hr>
 
@@ -62,9 +62,9 @@ Shuttle Buses will be available from the finish at the Auburn Dam Overlook in Au
 
 ### Bib Pickup
 
-Auburn Running Company 833 Lincoln Way, Auburn, CA Friday  10:00am - 6:00pm
+Auburn Running Company 833 Lincoln Way, Auburn Friday  10:00am - 6:00pm
 
-Stone's Brew 24482 Main Street, Foresthill, CA 100k and 50m - 5-5:45am, 50k - 7-7:45am
+Stone's Brew 24482 Main Street, Foresthill  100k and 50m: 5-5:45am, 50k: 7-7:45am
 
 <hr>
 
@@ -76,7 +76,7 @@ Please label drop bags with your name and bib number. Items will be transported 
 Drop locations are allowed at the following aid stations:
 
 <ol>
-	<li>Foresthill Elementary School: Start for all races; and mile 19.5 mile for the 100k and 50m.</li>
+	<li>Stone's Brew: Start for all races; and mile 19.5 mile for the 100k and 50m</li>
 	<li>Rucky Chucky: Mile 35 for the 100k and 50m; mile 16 for the 50k</li>
 	<li>Green Gate: Mile 41.3 for the 100k</li>
 </ol>
@@ -122,12 +122,6 @@ Results will be posted on the Overlook Endurance Runs website after the race.
 
 <hr>
 
-### Sponsors
-
-Coming soon!
-
-<hr>
-
 ### Cutoff
 
 As much as we want all runners to finish there will be two course cutoffs:
@@ -162,10 +156,10 @@ Registered runners can switch distances through August 15th. A check must be sen
 
 Headlamps or handheld lights are highly recommended for the times before Sunrise and after Sunset.
 
-Civil Twilight: 6:10 a.m.
+Civil Twilight: 6:10am
 
-Sunrise: 6:37 a.m.
+Sunrise: 6:37am
 
-Sunset: 7:28 p.m.
+Sunset: 7:28pm
 
-Civil Twilight: 7:56 p.m.
+Civil Twilight: 7:56pm
