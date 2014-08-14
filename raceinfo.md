@@ -35,7 +35,7 @@ The 100k and 50m races start at 6 a.m. The 50k race starts at 8 a.m.
 
 ### Start Location
 
-All races start at the <a target="_blank" href="http://goo.gl/63kN9b">Foresthill Elementary School</a> 24750 Foresthill Road, Foresthill, CA.
+All races start at the <a target="_blank" href="http://tinyurl.com/StonesBrew">Stone's Brew</a> 24482 Main Street, Foresthill, CA.
 
 From I-80 take the Auburn/Foresthill exit, continue east on the Auburn Ravine Road/Foresthill Road for 17 miles. The start at the Foresthill Elementary School will be on the right.
 
@@ -53,13 +53,17 @@ Heading west on I-80 take the CA-193 E/CA-49 exit toward Placerville, turn left 
 
 ### Shuttle to Start
 
-Shuttle Buses will be available from the finish at the Auburn Dam Overlook in Auburn to the start at the Foresthill Elementary School in Foresthill. Departure time to be determined.
+Shuttle Buses will be available from the finish at the Auburn Dam Overlook in Auburn to the start at the Stone's Brew, 24482 Main Street in Foresthill. Below are the departure times:
+
+* 100km and 50m: 4:45am
+* 50km: 6:45am
 
 <hr>
 
 ### Bib Pickup
 
-Foresthill Elementary School 5-5:45 a.m. for the 100k and 50m, 7-7:45 a.m. for the 50k.
+Auburn Running Company 833 Lincoln Way, Auburn, CA Friday  10:00am - 6:00pm
+Stone's Brew 24482 Main Street, Foresthill, CA 100k and 50m - 5-5:45am, 50k - 7-7:45am
 
 <hr>
 
