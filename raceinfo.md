@@ -157,7 +157,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Left into Fire Station Parking</li>
 	- Parking Fee Required<br>
 	- Hike approximately 1.2 miles along trail to aid station<br>
-	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS.</strong>
+	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS.</strong><br>
 	<strong> CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
 </ol>
 
@@ -167,7 +167,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Continue up CA-49 – 2.3 miles</li>
 	- Park along road or in dirt parking lot<br>
 	- No Hands Bridge Aid Station on the left up the trail<br>
-	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS.</strong>
+	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS.</strong><br>
 	<strong> CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
 </ol>
 
