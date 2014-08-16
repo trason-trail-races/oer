@@ -176,7 +176,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 <ol>
 	<li>West on CA-49 to T-intersection – 0.1 miles</li>
 	<li>Left on El Dorado St (CA-49) – 2.5 miles</li>
-	<li>Straight onto High St – 0.5 miles</li>
+	<li>Continue straight onto High St – 0.5 miles</li>
 	<li>Left on Pleasant Ave – 0.3 miles</li>
 	<li>Continue straight onto Pacific Ave – 0.2 miles</li>
 	- Auburn Dam Overlook Park is on the left<br>
