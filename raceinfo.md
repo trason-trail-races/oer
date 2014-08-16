@@ -103,7 +103,7 @@ Crews are permitted at the following aid stations:
 
 ### Aid Station Directions
 
-Provided below are crew driving directions to aid stations. Mileage is approximate, your distance may vary. Some aid stations require hiking 1-2 miles along unpaved, rough roads. Access aid stations at your own risk.
+Provided below are crew driving directions to aid stations. Mileage is approximate, your distance may vary. Some aid stations require hiking 1-2 miles along unpaved, rough roads, or trails. Access aid stations at your own risk.
 
 <strong>Michigan Bluff Aid Station</strong><br>
 * From Overlook Endurance Runs’ Starting Line – Stone’s Brew:
