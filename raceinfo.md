@@ -101,7 +101,14 @@ Crews are permitted at the following aid stations:
 
 ### Aid Station Directions
 
-Provided below are crew driving directions to aid stations. Mileage is approximate, your distance may vary.
+Provided below are crew driving directions to aid stations. Mileage is approximate, your distance may vary. Some aid stations require hiking 1-2 miles along unpaved, rough roads. Access aid stations at your own risk.
+
+Michigan Bluff Aid Station
+* From Overlook Endurance Runs’ Start – Stone’s Brew:
+<ol>
+	<li>East on Foresthill Rd – 4 miles</li>
+	<li>Right on Michigan Bluff Rd – 2.9 miles</li>
+</ol>
 
 <hr>
 
