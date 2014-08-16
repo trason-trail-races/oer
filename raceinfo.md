@@ -110,7 +110,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 <ol>
 	<li>East on Foresthill Rd – 4 miles</li>
 	<li>Right on Michigan Bluff Rd – 2.9 miles</li>
-	<strong>- Do not block road or driveways</strong>
+	<strong>- DO NOT BLOCK ROAD OR DRIVEWAYS</strong>
 </ol>
 
 <strong>Foresthill Aid Station</strong><br>
@@ -120,6 +120,35 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Left on Foresthill Rd – 4 miles</li>
 	- Aid Station on the left at Stone's Brew
 </ol>
+
+<strong>Rucky Chucky Aid Station</strong><br>
+* From Foresthill Aid Station:
+<ol>
+	<li>West on Foresthill Rd – 9 miles</li>
+	<li>Left on Drivers Flat Rd – 0.4 miles</li>
+	- Park in Drivers Flat Staging Area
+	- Fee Required
+	- Hike down dirt road on left to Rucky Chucky – 2 miles
+</ol>
+
+<strong>Green Gate Aid Station</strong><br>
+* From Drivers Flat Staging Area:
+<ol>
+	<li>Drive up Drivers Flat Rd – 0.4 miles</li>
+	<li>Left on Foresthill Rd – 4.5 miles</li>
+	<li>Left on Old Auburn Foresthill Rd – 3.2 miles</li>
+	<li>Left on CA-49 to Cool – 3.5 miles</li>
+	<li>Left at stop sign on Georgetown Rd (CA-193) – 6 miles</li>
+	<li>Left on Sliger Mine Rd – 3.8 miles</li>
+	- Park along Sliger Mine Rd.
+	- Hike down dirt road to Green Gate – 1.25 miles
+	- End of Sliger Mine Rd is at fork with Foxgrove Ln (dirt road) and San Romo Dr
+	- Use end to turn around.
+	<strong>- DO NOT PARK AT TURN AROUND IN FRONT OF HOUSES</strong>
+	<strong>- DO NOT BLOCK ROAD OR FRONT OF HOUSES</strong>
+
+</ol>
+
 
 <hr>
 
