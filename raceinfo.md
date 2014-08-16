@@ -101,7 +101,9 @@ Crews are permitted at the following aid stations:
 
 ### Aid Station Directions
 
-Crews
+Provided below are crew driving directions to aid stations. Mileage is approximate, your distance may vary.
+
+<hr>
 
 ### Pacers
 
