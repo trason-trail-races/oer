@@ -62,9 +62,11 @@ Shuttle Buses will be available from the finish at the Auburn Dam Overlook in Au
 
 ### Bib Pickup
 
-Auburn Running Company 833 Lincoln Way, Auburn. Friday, September 5th  10:00am - 6:00pm
+Auburn Running Company 833 Lincoln Way, Auburn:<br>
+	Friday, September 5th  10:00am - 6:00pm
 
-Stone's Brew 24482 Main Street, Foresthill. Saturday, September 6th  100k and 50m: 5-5:45am, 50k: 7-7:45am
+Stone's Brew 24482 Main Street, Foresthill:<br>
+	Saturday, September 6th  100k and 50m: 5-5:45am, 50k: 7-7:45am
 
 <hr>
 
@@ -103,7 +105,7 @@ Crews are permitted at the following aid stations:
 
 Provided below are crew driving directions to aid stations. Mileage is approximate, your distance may vary. Some aid stations require hiking 1-2 miles along unpaved, rough roads. Access aid stations at your own risk.
 
-Michigan Bluff Aid Station
+<strong>Michigan Bluff Aid Station</strong>
 
 * From Overlook Endurance Runs’ Starting Line – Stone’s Brew:
 <ol>
