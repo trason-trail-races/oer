@@ -43,7 +43,7 @@ From I-80 take the Auburn/Foresthill exit, continue east on the Auburn Ravine Ro
 
 ### Finish Location
 
-All races finish at the <a href="http://goo.gl/k9Kqrq" target="_blank">American Canyon Park Overlook</a> (Auburn Dam Overlook) 855 Pacific Avenue, Auburn, CA.
+All races finish at the <a href="http://goo.gl/k9Kqrq" target="_blank">American River Canyon Overlook Park</a> (Auburn Dam Overlook) 855 Pacific Avenue, Auburn, CA.
 
 Heading east on I-80 take the Auburn Folsom Road/Maple Street exit toward Auburn, turn left on High Street, turn right on Pleasant Avenue, then slight left on Pacific Avenue. The park will be on the left.
 
@@ -53,7 +53,7 @@ Heading west on I-80 take the CA-193 E/CA-49 exit toward Placerville, turn left 
 
 ### Shuttle to Start
 
-Shuttle Buses will be available from the finish at the Auburn Dam Overlook in Auburn to the start at the Stone's Brew, 24482 Main Street in Foresthill. Below are the departure times:
+Shuttle Buses will be available from the finish at the Auburn Dam Overlook in Auburn to the start at the Stone's Brew, 24482 Main Street in Foresthill. Below are the shuttle departure times:
 
 * 100km and 50m: 4:45am
 * 50km: 6:45am
@@ -62,9 +62,9 @@ Shuttle Buses will be available from the finish at the Auburn Dam Overlook in Au
 
 ### Bib Pickup
 
-Auburn Running Company 833 Lincoln Way, Auburn Friday  10:00am - 6:00pm
+Auburn Running Company 833 Lincoln Way, Auburn. Friday, September 5th  10:00am - 6:00pm
 
-Stone's Brew 24482 Main Street, Foresthill  100k and 50m: 5-5:45am, 50k: 7-7:45am
+Stone's Brew 24482 Main Street, Foresthill. Saturday, September 6th  100k and 50m: 5-5:45am, 50k: 7-7:45am
 
 <hr>
 
@@ -85,7 +85,7 @@ Drop locations are allowed at the following aid stations:
 
 ### Crews
 
-Crews are encouraged and welcome to support runners. Due to aid station locations most crew access will require foot travel from 1 to 2 miles.
+Crews are welcome to support runners. Due to aid station locations some crew access require foot travel from 1 to 2 miles.
 
 Crews are permitted at the following aid stations:
 
@@ -98,6 +98,10 @@ Crews are permitted at the following aid stations:
 </ol>
 
 <hr>
+
+### Aid Station Directions
+
+Crews
 
 ### Pacers
 
