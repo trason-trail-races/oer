@@ -171,6 +171,19 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<strong> CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
 </ol>
 
+<strong>Auburn Dam Overlook Park Aid Station - Finish Line</strong><br>
+* From No Hands Bridge Aid Station:
+<ol>
+	<li>West on CA-49 to T-intersection – 0.1 miles</li>
+	<li>Left on El Dorado St (CA-49) – 2.5 miles</li>
+	<li>Straight onto High St – 0.5 miles</li>
+	<li>Left on Pleasant Ave – 0.3 miles</li>
+	<li>Continue straight onto Pacific Ave – 0.2 miles</li>
+	- Auburn Dam Overlook Park is on the left<br>
+	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS.</strong><br>
+	<strong> CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
+</ol>
+
 <hr>
 
 ### Pacers
