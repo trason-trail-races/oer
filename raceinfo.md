@@ -140,10 +140,10 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Left on CA-49 towards Cool – 3.5 miles</li>
 	<li>Left at stop sign on Georgetown Rd (CA-193) – 6 miles</li>
 	<li>Left on Sliger Mine Rd – 3.8 miles</li>
-	- Park along Sliger Mine Rd.<br>
+	- End of Sliger Mine Rd is at fork with Foxgrove Ln (dirt road) and San Romo Dr (paved road)<br>
+	- Use the end of Sliger Mine Rd to turn around<br>
+	- Park along Sliger Mine Rd<br>
 	- Hike down dirt road to Green Gate – 1.25 miles<br>
-	- End of Sliger Mine Rd is at fork with Foxgrove Ln (dirt road) and San Romo Dr<br>
-	- Use end to turn around<br>
 	<strong>- DO NOT PARK AT TURN AROUND IN FRONT OF HOUSES</strong><br>
 	<strong>- DO NOT BLOCK ROAD OR FRONT OF HOUSES</strong><br>
 </ol>
@@ -157,7 +157,8 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Left into Fire Station Parking</li>
 	- Parking Fee Required<br>
 	- Hike approximately 1.2 miles along trail to aid station<br>
-	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS. CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
+	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS.</strong>
+	<strong> CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
 </ol>
 
 <strong>No Hands Bridge Aid Station</strong><br>
@@ -166,7 +167,8 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Continue up CA-49 – 2.3 miles</li>
 	- Park along road or in dirt parking lot<br>
 	- No Hands Bridge Aid Station on the left up the trail<br>
-	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS. CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
+	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS.</strong>
+	<strong> CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
 </ol>
 
 <hr>
