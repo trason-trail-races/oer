@@ -87,16 +87,16 @@ Drop locations are allowed at the following aid stations:
 
 ### Crews
 
-Crews are welcome to support runners. Due to aid station locations some crew access require foot travel from 1 to 2 miles.
+Crews are welcome to support runners. Due to aid station locations some crew access requires foot travel from 1 to 2 miles.
 
 Crews are permitted at the following aid stations:
 
 <ol>
 	<li>Michigan Bluff</li>
 	<li>Foresthill</li>
-	<li>Rucky Chucky (foot only from Foresthill Rd)</li>
-	<li>Green Gate (foot only)</li>
-	<li>Highway 49 (foot only along trail)</li>
+	<li>Rucky Chucky (on foot access only)</li>
+	<li>Green Gate (on foot access only)</li>
+	<li>Highway 49 (on foot access only)</li>
 	<li>No Hands Bridge</li>
 </ol>
 
