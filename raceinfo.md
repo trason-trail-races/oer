@@ -96,6 +96,7 @@ Crews are permitted at the following aid stations:
 	<li>Foresthill</li>
 	<li>Rucky Chucky (foot only from Foresthill Rd)</li>
 	<li>Green Gate (foot only)</li>
+	<li>Highway 49 (foot only along trail)</li>
 	<li>No Hands Bridge</li>
 </ol>
 
@@ -193,8 +194,9 @@ Pacers will be allowed for 100k and 50m only. You may have more than one pacer a
 Pacers are allowed to meet their runner from the following aid stations:
 
 <ol>
-	<li>Rucky Chucky (mile 35)</li>
-	<li>Green Gate</li>
+	<li>Rucky Chucky (on foot access only)</li>
+	<li>Green Gate (on foot access only)</li>
+	<li>Highway 49 (on foot access only)</li>
 	<li>No Hands Bridge</li>
 </ol>
 
