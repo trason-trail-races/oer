@@ -94,7 +94,6 @@ Crews are permitted at the following aid stations:
 	<li>Foresthill</li>
 	<li>Rucky Chucky (foot only from Foresthill Rd)</li>
 	<li>Green Gate (foot only)</li>
-	<li>Highway 49 (foot only)</li>
 	<li>No Hands Bridge</li>
 </ol>
 
@@ -109,7 +108,6 @@ Pacers are allowed to meet their runner from the following aid stations:
 <ol>
 	<li>Rucky Chucky (mile 35)</li>
 	<li>Green Gate</li>
-	<li>Highway 49</li>
 	<li>No Hands Bridge</li>
 </ol>
 
