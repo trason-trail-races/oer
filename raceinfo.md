@@ -110,7 +110,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 <ol>
 	<li>East on Foresthill Rd – 4 miles</li>
 	<li>Right on Michigan Bluff Rd – 2.9 miles</li>
-	<strong>- DO NOT BLOCK ROAD OR DRIVEWAYS</strong>
+	<strong>- DO NOT BLOCK ROAD OR DRIVEWAYS</strong><br>
 </ol>
 
 <strong>Foresthill Aid Station</strong><br>
@@ -118,7 +118,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 <ol>
 	<li>Return up Michigan Bluff Rd – 2.9 miles</li>
 	<li>Left on Foresthill Rd – 4 miles</li>
-	- Aid Station on the left at Stone's Brew
+	- Aid Station on the left at Stone's Brew<br>
 </ol>
 
 <strong>Rucky Chucky Aid Station</strong><br>
@@ -127,7 +127,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>West on Foresthill Rd – 9 miles</li>
 	<li>Left on Drivers Flat Rd – 0.4 miles</li>
 	- Park in Drivers Flat Staging Area<br>
-	- Fee Required<br>
+	- Parking Fee Required<br>
 	- Hike down dirt road on left to Rucky Chucky – 2 miles<br>
 </ol>
 
@@ -137,7 +137,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Drive up Drivers Flat Rd – 0.4 miles</li>
 	<li>Left on Foresthill Rd – 4.5 miles</li>
 	<li>Left on Old Auburn Foresthill Rd – 3.2 miles</li>
-	<li>Left on CA-49 to Cool – 3.5 miles</li>
+	<li>Left on CA-49 towards Cool – 3.5 miles</li>
 	<li>Left at stop sign on Georgetown Rd (CA-193) – 6 miles</li>
 	<li>Left on Sliger Mine Rd – 3.8 miles</li>
 	- Park along Sliger Mine Rd.<br>
@@ -148,6 +148,26 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<strong>- DO NOT BLOCK ROAD OR FRONT OF HOUSES</strong><br>
 </ol>
 
+<strong>Highway 49 Aid Station</strong><br>
+* From Green Gate Aid Station:
+<ol>
+	<li>Return up Sliger Mine Rd – 3.8 miles</li>
+	<li>Right on Georgetown Rd (CA-193) – 6 miles</li>
+	<li>Right on CA-49 – 0.1 miles</li>
+	<li>Left into Fire Station Parking</li>
+	- Parking Fee Required<br>
+	- Hike approximately 1.2 miles along trail to aid station<br>
+	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS. CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
+</ol>
+
+<strong>No Hands Bridge Aid Station</strong><br>
+* From Highway 49 Aid Station:
+<ol>
+	<li>Continue up CA-49 – 2.3 miles</li>
+	- Park along road or in dirt parking lot<br>
+	- No Hands Bridge Aid Station on the left up the trail<br>
+	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS. CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
+</ol>
 
 <hr>
 
