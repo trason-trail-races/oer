@@ -113,6 +113,14 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Right on Michigan Bluff Rd – 2.9 miles</li>
 </ol>
 
+<strong>Foresthill Aid Station</strong>
+* From Michigan Bluff Aid Station:
+<ol>
+	<li>Return up Michigan Bluff Rd – 2.9 miles</li>
+	<li>Left on Foresthill Rd – 4 miles</li>
+	<strong>- Do not block road or driveways</strong>
+</ol>
+
 <hr>
 
 ### Pacers
