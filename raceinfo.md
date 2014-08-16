@@ -126,9 +126,9 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 <ol>
 	<li>West on Foresthill Rd – 9 miles</li>
 	<li>Left on Drivers Flat Rd – 0.4 miles</li>
-	- Park in Drivers Flat Staging Area
-	- Fee Required
-	- Hike down dirt road on left to Rucky Chucky – 2 miles
+	- Park in Drivers Flat Staging Area<br>
+	- Fee Required<br>
+	- Hike down dirt road on left to Rucky Chucky – 2 miles<br>
 </ol>
 
 <strong>Green Gate Aid Station</strong><br>
@@ -140,13 +140,12 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Left on CA-49 to Cool – 3.5 miles</li>
 	<li>Left at stop sign on Georgetown Rd (CA-193) – 6 miles</li>
 	<li>Left on Sliger Mine Rd – 3.8 miles</li>
-	- Park along Sliger Mine Rd.
-	- Hike down dirt road to Green Gate – 1.25 miles
-	- End of Sliger Mine Rd is at fork with Foxgrove Ln (dirt road) and San Romo Dr
-	- Use end to turn around.
-	<strong>- DO NOT PARK AT TURN AROUND IN FRONT OF HOUSES</strong>
-	<strong>- DO NOT BLOCK ROAD OR FRONT OF HOUSES</strong>
-
+	- Park along Sliger Mine Rd.<br>
+	- Hike down dirt road to Green Gate – 1.25 miles<br>
+	- End of Sliger Mine Rd is at fork with Foxgrove Ln (dirt road) and San Romo Dr<br>
+	- Use end to turn around<br>
+	<strong>- DO NOT PARK AT TURN AROUND IN FRONT OF HOUSES</strong><br>
+	<strong>- DO NOT BLOCK ROAD OR FRONT OF HOUSES</strong><br>
 </ol>
 
 
