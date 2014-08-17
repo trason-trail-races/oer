@@ -107,7 +107,7 @@ Crews are permitted at the following aid stations:
 Provided below are crew driving directions to aid stations. Mileage is approximate, your distance may vary. Some aid stations require hiking 1-2 miles along unpaved, rough roads, or trails. Access aid stations at your own risk.
 
 <strong>Michigan Bluff Aid Station</strong><br>
-* From Overlook Endurance Runs’ Starting Line – Stone’s Brew:
+* From Overlook Endurance Runs’ Starting Line – Stone’s Brew (6.9 miles):
 <ol>
 	<li>East on Foresthill Rd – 4 miles</li>
 	<li>Right on Michigan Bluff Rd – 2.9 miles</li>
@@ -115,7 +115,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 </ol>
 
 <strong>Foresthill Aid Station</strong><br>
-* From Michigan Bluff Aid Station:
+* From Michigan Bluff Aid Station (6.9 miles):
 <ol>
 	<li>Return up Michigan Bluff Rd – 2.9 miles</li>
 	<li>Left on Foresthill Rd – 4 miles</li>
@@ -123,7 +123,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 </ol>
 
 <strong>Rucky Chucky Aid Station</strong><br>
-* From Foresthill Aid Station:
+* From Foresthill Aid Station (11.4 miles):
 <ol>
 	<li>West on Foresthill Rd – 9 miles</li>
 	<li>Left on Drivers Flat Rd – 0.4 miles</li>
@@ -133,7 +133,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 </ol>
 
 <strong>Green Gate Aid Station</strong><br>
-* From Drivers Flat Staging Area:
+* From Drivers Flat Staging Area (22.7 miles):
 <ol>
 	<li>Drive up Drivers Flat Rd – 0.4 miles</li>
 	<li>Left on Foresthill Rd – 4.5 miles</li>
@@ -150,7 +150,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 </ol>
 
 <strong>Highway 49 Aid Station</strong><br>
-* From Green Gate Aid Station:
+* From Green Gate Aid Station (11.1 miles):
 <ol>
 	<li>Return up Sliger Mine Rd – 3.8 miles</li>
 	<li>Right on Georgetown Rd (CA-193) – 6 miles</li>
@@ -163,9 +163,9 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 </ol>
 
 <strong>No Hands Bridge Aid Station</strong><br>
-* From Highway 49 Aid Station:
+* From Highway 49 Aid Station (3.4 miles):
 <ol>
-	<li>Continue up CA-49 – 2.3 miles</li>
+	<li>Continue up CA-49 – 3.4 miles</li>
 	- Park along road or in dirt parking lot<br>
 	- No Hands Bridge Aid Station on the left up the trail<br>
 	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS.</strong><br>
@@ -173,7 +173,7 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 </ol>
 
 <strong>Auburn Dam Overlook Park Aid Station - Finish Line</strong><br>
-* From No Hands Bridge Aid Station:
+* From No Hands Bridge Aid Station (3.6 miles):
 <ol>
 	<li>West on CA-49 to T-intersection – 0.1 miles</li>
 	<li>Left on El Dorado St (CA-49) – 2.5 miles</li>
