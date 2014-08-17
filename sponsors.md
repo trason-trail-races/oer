@@ -41,7 +41,7 @@ Marsha has been a certified Massage Therapist since 2004. Marsha received her ce
 THE GOLD STANDARD FOR ELECTROLYTE REPLACEMENT™
 <br /><br />
 Since 1995, S! Caps have been the best electrolyte supplement on the market.  They are effective and safe because the formulation matches the electrolyte content of human blood plasma: both + and – ions.  The winning formulation.
-<br /><br />
+<hr><br>
 <a href="http://www.rypwear.com/" target="_blank"><img src="http://trason-trail-races.github.io/oer/images/RYP_Wear_logo.png" class="img-responsive"></a><br />
 Bringing our passion for sports to others through clothes that fit well, function well, and look great to inspire you to reach your potential!
 </div>
