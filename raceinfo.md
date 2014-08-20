@@ -157,10 +157,10 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Right on CA-49 – 0.1 miles</li>
 	<li>Left into Fire Station Parking</li>
 	- Parking Fee Required<br>
-	- Hike approximately 1.2 miles along trail to aid station. Signs will be placed along the trail guiding you to the
-	aid station. Please note, crews and pacers are free to support their runner once they reach the course. For Highway
-	49 aid station only, crews and pacers do not need to be at the aid station, but can support their runner along the
-	course outside of aid station.<br>
+	- Hike approximately 1.2 miles along the trail to aid station. Signs will be placed along the trail guiding you to the
+	aid station. Please note, for Highway 49 aid station ONLY, crews and pacers are free to support their runner once they
+	reach the course. Crews and pacers do not need to be at the aid station, but can support their runner along the
+	Overlook course outside of aid station.<br>
 	<strong>- NOTE: IT MAY BE DARK DURING CREW ACCESS.</strong><br>
 	<strong> CREW HIGHLY RECOMMENDED TO BRING FLASHLIGHTS</strong><br>
 </ol>
