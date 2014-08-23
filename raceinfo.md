@@ -141,8 +141,8 @@ Provided below are crew driving directions to aid stations. Mileage is approxima
 	<li>Left on CA-49 towards Cool – 3.5 miles</li>
 	<li>Left at stop sign on Georgetown Rd (CA-193) – 6 miles</li>
 	<li>Left on Sliger Mine Rd – 3.8 miles</li>
-	- End of Sliger Mine Rd is at fork with Foxgrove Ln (dirt road) and San Romo Dr (paved road)<br>
-	- Use the end of Sliger Mine Rd to turn around<br>
+	- End of paved portion of Sliger Mine Rd is at fork with Foxgrove Rd (paved road)<br>
+	- Use the end of paved portion of Sliger Mine Rd to turn around<br>
 	- Park along Sliger Mine Rd<br>
 	- Hike down dirt road to Green Gate – 1.25 miles<br>
 	<strong>- DO NOT PARK AT TURN AROUND IN FRONT OF HOUSES</strong><br>
