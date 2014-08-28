@@ -11,13 +11,13 @@ image:
   creditlink: 
 ---
 
-Cell phone reception is poor along the course. Download our participant guide for offline viewing. Note that Rucky Chucky, Green Gate, and Highway 49 are not accessible by car and they require hiking in.
+Cell phone reception is poor along the course. Copy the information from our website for offline viewing. Note that Rucky Chucky, Green Gate, and Highway 49 are not accessible by car and they require hiking in.
 
 ## 100 kilometers
 
 The 100k course leaves Foresthill through the scenic Volcano and El Dorado Canyons. The route into El Dorado uses the service fire road into the canyon. Using the service road alleviates congestion and adds great views of the canyon not enjoyed during other running events. Turning around at the bottom of El Dorado Canyon, the course rejoins the Western States Trail returning to Foresthill. From Foresthill runners will follow the Western States and Tevis Cup trails, then traverse a small segment of the old Cool Canyon Crawl course on the way to the finish at the Auburn Overlook.
 <br>
-Participants on the 100k course pass through 13 aid stations. You'll hit Foresthill and Michigan Bluff twice each.
+Participants on the 100k course pass through 11 aid stations. You'll hit Foresthill and Michigan Bluff twice each.
 
 | **Station** | **Mile** | **Next** | **Crew** | **Pacer** | **Cutoff** | **Dropbag**
 | Foresthill <span class="circleBase legend" style="background:#33CC33;"></span> | 0 | 6.3 | ✓ |  | | 
@@ -40,7 +40,7 @@ Participants on the 100k course pass through 13 aid stations. You'll hit Foresth
 
 ## 50 miles
 
-Participants on the 50m course pass through 9 aid stations. You'll hit Foresthill and Michigan Bluff twice each.
+Participants on the 50m course pass through 9 aid stations. You'll hit both Foresthill and Michigan Bluff twice.
 
 
 | **Station** | **Mile** | **Next** | **Crew** | **Pacer** | **Cutoff** | **Dropbag**
