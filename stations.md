@@ -11,7 +11,7 @@ image:
   creditlink: 
 ---
 
-Cell phone reception is poor along the course. Copy the information from our website for offline viewing. Note that Rucky Chucky, Green Gate, and Highway 49 are not accessible by car and they require hiking in.
+Cell phone reception is poor along the course. Copy the information from our website for offline viewing. Note that Rucky Chucky, Green Gate, and Highway 49 are not accessible by car and crews/pacers must hike 1+ miles to their location.
 
 ## 100 kilometers
 
