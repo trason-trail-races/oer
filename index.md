@@ -17,7 +17,7 @@ Welcome to our inaugural event on September 6, 2014, presented by Trason Trail R
 <p>
 <li>100km/50m: 5:00am to 5:45am</li>
 <li>50km: 7:00am to 7:45am</li>
-<p>
+</p>
 We are taking online signups, including shuttle service, until Wednesday night, September 3rd.
 </p>
 <p>
