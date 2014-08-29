@@ -19,7 +19,6 @@ Welcome to our inaugural event on September 6, 2014, presented by Trason Trail R
 <li>50km: 7:00am to 7:45am</li>
 </p>
 <p>We are taking online signups, including shuttle service, until Wednesday night, September 3rd.
-</p>
 <p>
 <strong>Update</strong>: <a href="http://auburnalehouse.com/" target="_blank">Auburn Alehouse</a> will be hosting a pre-race dinner for runners, pacers and volunteers. $10 will get you a salad, pasta dinner and a pint! They will be selling tickets the Alehouse and at the Auburn Running Company.
 </p>
