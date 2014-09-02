@@ -13,7 +13,7 @@ image:
 Welcome to our inaugural event on September 6, 2014, presented by Trason Trail Runs! Choose from 100k, 50m, and 50k courses from Foresthill to Auburn. We hope you can join us!
 </p>
 <hr>
-<p><strong>Update</strong>: We are accepting race day signups! However, due to limited capacity, we are not able to offer the shuttle service from the finish line at Auburn Dam Overlook to the start line at Stone's Brew. You will need to go directly to Stone's Brew at 24482 Main St. Foresthill. Race day signups and checkin are as follows:</p>
+<p><strong>Update</strong>: We are accepting race day signups! However, due to limited capacity, we are not able to offer the shuttle service <strong>for race day signups</strong> from the finish line at Auburn Dam Overlook to the start line at Stone's Brew. You will need to go directly to Stone's Brew at 24482 Main St. Foresthill. Race day signups and checkin are as follows:</p>
 <p>
 <li>100km/50m: 5:00am to 5:45am</li>
 <li>50km: 7:00am to 7:45am</li>
