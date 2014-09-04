@@ -19,11 +19,11 @@ image:
 
 There are three distances from which to choose. Select one below for details on aid stations, maps, and course elevation and profile.
 
-<a href="{{ site.url }}/course/100k">100k</a> (<a href="http://routesbeta.rungoapp.com/route.html?route=S0yzSE5n2L" target="_blank">link to Run Go App map online</a>)
+<a href="{{ site.url }}/course/100k">100k</a> (<a href="http://routesbeta.rungoapp.com/route.html?route=S0yzSE5n2L" target="_blank">RunGo App map online</a>)
 
-<a href="{{ site.url }}/course/50m">50m</a>(<a href="http://routesbeta.rungoapp.com/route.html?route=2FaRmCNMLI" target="_blank">link to Run Go App map online</a>)
+<a href="{{ site.url }}/course/50m">50m</a> (<a href="http://routesbeta.rungoapp.com/route.html?route=2FaRmCNMLI" target="_blank">RunGo App map online</a>)
 
-<a href="{{ site.url }}/course/50k">50k</a>(<a href="http://routesbeta.rungoapp.com/route.html?route=dKsov07IRy" target="_blank">link to Run Go App map online</a>)
+<a href="{{ site.url }}/course/50k">50k</a> (<a href="http://routesbeta.rungoapp.com/route.html?route=dKsov07IRy" target="_blank">RunGo App map online</a>)
 
 You can also download "RunGo" for your smart phone from these links:
 <a href="https://itunes.apple.com/us/app/rungo/id712628644">RunGo App for iPhone</a>
